@@ -4,10 +4,12 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
+    "server": "json-server --watch src/data/cars.json",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.19.0",
     "core-js": "^3.3.2",
     "vue": "^2.6.10",
     "vue-router": "^3.1.3",
