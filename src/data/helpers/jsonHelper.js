@@ -4476,7 +4476,7 @@ let addPrice = function() {
   });
   return cars;
 };
-addPrice(cars);
+// addPrice(cars);
 
 let addQuantity = function() {
   cars.forEach(car => {
@@ -4485,12 +4485,12 @@ let addQuantity = function() {
   });
   return cars;
 };
-addQuantity(cars);
+// addQuantity(cars);
 
 let addPicture = function() {
   cars.forEach(car => {
     car.Picture =
-      "https://img-new.cgtrader.com/items/1830351/334fce4f56/car-frame-with-chassis-engine-01-3d-model-max-fbx.jpg";
+      "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg";
   });
   return cars;
 };
@@ -4504,7 +4504,7 @@ let addBought = function() {
   return cars;
 };
 
-addBought(cars);
+// addBought(cars);
 
 let data = JSON.stringify(cars);
 fs.writeFileSync("data.json", data);
