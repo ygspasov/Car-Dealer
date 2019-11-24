@@ -13,6 +13,6 @@ export default new Vuetify({
         error: "#b71c1c"
       }
     },
-    light: true
+    light: false
   }
 });

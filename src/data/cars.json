@@ -10,7 +10,10 @@
       "Acceleration": 12,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12739,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick skylark 320",
@@ -22,7 +25,10 @@
       "Acceleration": 11.5,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10174,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth satellite",
@@ -34,7 +40,10 @@
       "Acceleration": 11,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17314,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc rebel sst",
@@ -46,7 +55,10 @@
       "Acceleration": 12,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10244,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford torino",
@@ -58,7 +70,10 @@
       "Acceleration": 10.5,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14604,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford galaxie 500",
@@ -70,7 +85,10 @@
       "Acceleration": 10,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17006,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet impala",
@@ -82,7 +100,10 @@
       "Acceleration": 9,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19413,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth fury iii",
@@ -94,7 +115,10 @@
       "Acceleration": 8.5,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18356,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac catalina",
@@ -106,7 +130,10 @@
       "Acceleration": 10,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15823,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc ambassador dpl",
@@ -118,7 +145,10 @@
       "Acceleration": 8.5,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13767,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "citroen ds-21 pallas",
@@ -130,7 +160,10 @@
       "Acceleration": 17.5,
       "Year": "1970-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19083,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet chevelle concours (sw)",
@@ -142,7 +175,10 @@
       "Acceleration": 11.5,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17677,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford torino (sw)",
@@ -154,7 +190,10 @@
       "Acceleration": 11,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10600,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth satellite (sw)",
@@ -166,7 +205,10 @@
       "Acceleration": 10.5,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11131,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc rebel sst (sw)",
@@ -178,7 +220,10 @@
       "Acceleration": 11,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15533,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge challenger se",
@@ -190,7 +235,10 @@
       "Acceleration": 10,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14364,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth 'cuda 340",
@@ -202,7 +250,10 @@
       "Acceleration": 8,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19430,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford mustang boss 302",
@@ -214,7 +265,10 @@
       "Acceleration": 8,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11985,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet monte carlo",
@@ -226,7 +280,10 @@
       "Acceleration": 9.5,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13947,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick estate wagon (sw)",
@@ -238,7 +295,10 @@
       "Acceleration": 10,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13914,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corona mark ii",
@@ -250,7 +310,10 @@
       "Acceleration": 15,
       "Year": "1970-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16844,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth duster",
@@ -262,7 +325,10 @@
       "Acceleration": 15.5,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13777,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc hornet",
@@ -274,7 +340,10 @@
       "Acceleration": 15.5,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13914,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford maverick",
@@ -286,7 +355,10 @@
       "Acceleration": 16,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19705,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun pl510",
@@ -298,7 +370,10 @@
       "Acceleration": 14.5,
       "Year": "1970-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12134,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen 1131 deluxe sedan",
@@ -310,7 +385,10 @@
       "Acceleration": 20.5,
       "Year": "1970-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17971,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "peugeot 504",
@@ -322,7 +400,10 @@
       "Acceleration": 17.5,
       "Year": "1970-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18958,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "audi 100 ls",
@@ -334,7 +415,10 @@
       "Acceleration": 14.5,
       "Year": "1970-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12043,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "saab 99e",
@@ -346,7 +430,10 @@
       "Acceleration": 17.5,
       "Year": "1970-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19521,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "bmw 2002",
@@ -358,7 +445,10 @@
       "Acceleration": 12.5,
       "Year": "1970-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11573,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc gremlin",
@@ -370,7 +460,10 @@
       "Acceleration": 15,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15158,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford f250",
@@ -382,7 +475,10 @@
       "Acceleration": 14,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16859,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevy c20",
@@ -394,7 +490,10 @@
       "Acceleration": 15,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17017,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge d200",
@@ -406,7 +505,10 @@
       "Acceleration": 13.5,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12412,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "hi 1200d",
@@ -418,7 +520,10 @@
       "Acceleration": 18.5,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12672,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun pl510",
@@ -430,7 +535,10 @@
       "Acceleration": 14.5,
       "Year": "1971-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17471,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet vega 2300",
@@ -442,7 +550,10 @@
       "Acceleration": 15.5,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17533,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corona",
@@ -454,7 +565,10 @@
       "Acceleration": 14,
       "Year": "1971-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10739,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford pinto",
@@ -466,7 +580,10 @@
       "Acceleration": 19,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16452,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen super beetle 117",
@@ -478,7 +595,10 @@
       "Acceleration": 20,
       "Year": "1971-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19616,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc gremlin",
@@ -490,7 +610,10 @@
       "Acceleration": 13,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19864,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth satellite custom",
@@ -502,7 +625,10 @@
       "Acceleration": 15.5,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11897,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet chevelle malibu",
@@ -514,7 +640,10 @@
       "Acceleration": 15.5,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11904,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford torino 500",
@@ -526,7 +655,10 @@
       "Acceleration": 15.5,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19549,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc matador",
@@ -538,7 +670,10 @@
       "Acceleration": 15.5,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19294,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet impala",
@@ -550,7 +685,10 @@
       "Acceleration": 12,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14762,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac catalina brougham",
@@ -562,7 +700,10 @@
       "Acceleration": 11.5,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18016,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford galaxie 500",
@@ -574,7 +715,10 @@
       "Acceleration": 13.5,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10297,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth fury iii",
@@ -586,7 +730,10 @@
       "Acceleration": 13,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12219,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge monaco (sw)",
@@ -598,7 +745,10 @@
       "Acceleration": 11.5,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17133,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford country squire (sw)",
@@ -610,7 +760,10 @@
       "Acceleration": 12,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18361,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac safari (sw)",
@@ -622,7 +775,10 @@
       "Acceleration": 12,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16153,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc hornet sportabout (sw)",
@@ -634,7 +790,10 @@
       "Acceleration": 13.5,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18580,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet vega (sw)",
@@ -646,7 +805,10 @@
       "Acceleration": 19,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10488,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac firebird",
@@ -658,7 +820,10 @@
       "Acceleration": 15,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10201,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford mustang",
@@ -670,7 +835,10 @@
       "Acceleration": 14.5,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14834,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercury capri 2000",
@@ -682,7 +850,10 @@
       "Acceleration": 14,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11447,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "opel 1900",
@@ -694,7 +865,10 @@
       "Acceleration": 14,
       "Year": "1971-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15907,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "peugeot 304",
@@ -706,7 +880,10 @@
       "Acceleration": 19.5,
       "Year": "1971-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12972,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "fiat 124b",
@@ -718,7 +895,10 @@
       "Acceleration": 14.5,
       "Year": "1971-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13200,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corolla 1200",
@@ -730,7 +910,10 @@
       "Acceleration": 19,
       "Year": "1971-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15625,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 1200",
@@ -742,7 +925,10 @@
       "Acceleration": 18,
       "Year": "1971-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13481,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen model 111",
@@ -754,7 +940,10 @@
       "Acceleration": 19,
       "Year": "1971-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16828,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth cricket",
@@ -766,7 +955,10 @@
       "Acceleration": 20.5,
       "Year": "1971-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11285,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corona hardtop",
@@ -778,7 +970,10 @@
       "Acceleration": 15.5,
       "Year": "1972-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14076,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge colt hardtop",
@@ -790,7 +985,10 @@
       "Acceleration": 17,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17774,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen type 3",
@@ -802,7 +1000,10 @@
       "Acceleration": 23.5,
       "Year": "1972-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17453,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet vega",
@@ -814,7 +1015,10 @@
       "Acceleration": 19.5,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19302,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford pinto runabout",
@@ -826,7 +1030,10 @@
       "Acceleration": 16.5,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13694,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet impala",
@@ -838,7 +1045,10 @@
       "Acceleration": 12,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19279,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac catalina",
@@ -850,7 +1060,10 @@
       "Acceleration": 12,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13868,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth fury iii",
@@ -862,7 +1075,10 @@
       "Acceleration": 13.5,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17158,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford galaxie 500",
@@ -874,7 +1090,10 @@
       "Acceleration": 13,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14130,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc ambassador sst",
@@ -886,7 +1105,10 @@
       "Acceleration": 11.5,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18883,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercury marquis",
@@ -898,7 +1120,10 @@
       "Acceleration": 11,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10400,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick lesabre custom",
@@ -910,7 +1135,10 @@
       "Acceleration": 13.5,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17503,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "oldsmobile delta 88 royale",
@@ -922,7 +1150,10 @@
       "Acceleration": 13.5,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14071,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chrysler newport royal",
@@ -934,7 +1165,10 @@
       "Acceleration": 12.5,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16585,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mazda rx2 coupe",
@@ -946,7 +1180,10 @@
       "Acceleration": 13.5,
       "Year": "1972-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14132,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc matador (sw)",
@@ -958,7 +1195,10 @@
       "Acceleration": 12.5,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19347,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet chevelle concours (sw)",
@@ -970,7 +1210,10 @@
       "Acceleration": 14,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10231,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford gran torino (sw)",
@@ -982,7 +1225,10 @@
       "Acceleration": 16,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16191,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth satellite custom (sw)",
@@ -994,7 +1240,10 @@
       "Acceleration": 14,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12660,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volvo 145e (sw)",
@@ -1006,7 +1255,10 @@
       "Acceleration": 14.5,
       "Year": "1972-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10784,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen 411 (sw)",
@@ -1018,7 +1270,10 @@
       "Acceleration": 18,
       "Year": "1972-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17841,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "peugeot 504 (sw)",
@@ -1030,7 +1285,10 @@
       "Acceleration": 19.5,
       "Year": "1972-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18149,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "renault 12 (sw)",
@@ -1042,7 +1300,10 @@
       "Acceleration": 18,
       "Year": "1972-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15146,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford pinto (sw)",
@@ -1054,7 +1315,10 @@
       "Acceleration": 16,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10328,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 510 (sw)",
@@ -1066,7 +1330,10 @@
       "Acceleration": 17,
       "Year": "1972-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14962,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyouta corona mark ii (sw)",
@@ -1078,7 +1345,10 @@
       "Acceleration": 14.5,
       "Year": "1972-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11423,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge colt (sw)",
@@ -1090,7 +1360,10 @@
       "Acceleration": 15,
       "Year": "1972-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12498,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corolla 1600 (sw)",
@@ -1102,7 +1375,10 @@
       "Acceleration": 16.5,
       "Year": "1972-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19807,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick century 350",
@@ -1114,7 +1390,10 @@
       "Acceleration": 13,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18722,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc matador",
@@ -1126,7 +1405,10 @@
       "Acceleration": 11.5,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13288,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet malibu",
@@ -1138,7 +1420,10 @@
       "Acceleration": 13,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19856,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford gran torino",
@@ -1150,7 +1435,10 @@
       "Acceleration": 14.5,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17002,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge coronet custom",
@@ -1162,7 +1450,10 @@
       "Acceleration": 12.5,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12970,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercury marquis brougham",
@@ -1174,7 +1465,10 @@
       "Acceleration": 11.5,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10131,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet caprice classic",
@@ -1186,7 +1480,10 @@
       "Acceleration": 12,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11863,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford ltd",
@@ -1198,7 +1495,10 @@
       "Acceleration": 13,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10551,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth fury gran sedan",
@@ -1210,7 +1510,10 @@
       "Acceleration": 14.5,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13761,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chrysler new yorker brougham",
@@ -1222,7 +1525,10 @@
       "Acceleration": 11,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13929,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick electra 225 custom",
@@ -1234,7 +1540,10 @@
       "Acceleration": 11,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19995,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc ambassador brougham",
@@ -1246,7 +1555,10 @@
       "Acceleration": 11,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10456,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth valiant",
@@ -1258,7 +1570,10 @@
       "Acceleration": 16.5,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16335,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet nova custom",
@@ -1270,7 +1585,10 @@
       "Acceleration": 18,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10785,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc hornet",
@@ -1282,7 +1600,10 @@
       "Acceleration": 16,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11376,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford maverick",
@@ -1294,7 +1615,10 @@
       "Acceleration": 16.5,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17157,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth duster",
@@ -1306,7 +1630,10 @@
       "Acceleration": 16,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14735,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen super beetle",
@@ -1318,7 +1645,10 @@
       "Acceleration": 21,
       "Year": "1973-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15707,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet impala",
@@ -1330,7 +1660,10 @@
       "Acceleration": 14,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18575,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford country",
@@ -1342,7 +1675,10 @@
       "Acceleration": 12.5,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16794,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth custom suburb",
@@ -1354,7 +1690,10 @@
       "Acceleration": 13,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11329,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "oldsmobile vista cruiser",
@@ -1366,7 +1705,10 @@
       "Acceleration": 12.5,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13149,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc gremlin",
@@ -1378,7 +1720,10 @@
       "Acceleration": 15,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18747,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota carina",
@@ -1390,7 +1735,10 @@
       "Acceleration": 19,
       "Year": "1973-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16924,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet vega",
@@ -1402,7 +1750,10 @@
       "Acceleration": 19.5,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16275,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 610",
@@ -1414,7 +1765,10 @@
       "Acceleration": 16.5,
       "Year": "1973-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19853,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "maxda rx3",
@@ -1426,7 +1780,10 @@
       "Acceleration": 13.5,
       "Year": "1973-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18055,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford pinto",
@@ -1438,7 +1795,10 @@
       "Acceleration": 18.5,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15094,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercury capri v6",
@@ -1450,7 +1810,10 @@
       "Acceleration": 14,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17111,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "fiat 124 sport coupe",
@@ -1462,7 +1825,10 @@
       "Acceleration": 15.5,
       "Year": "1973-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18467,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet monte carlo s",
@@ -1474,7 +1840,10 @@
       "Acceleration": 13,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13361,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac grand prix",
@@ -1486,7 +1855,10 @@
       "Acceleration": 9.5,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14636,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "fiat 128",
@@ -1498,7 +1870,10 @@
       "Acceleration": 19.5,
       "Year": "1973-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11352,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "opel manta",
@@ -1510,7 +1885,10 @@
       "Acceleration": 15.5,
       "Year": "1973-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11897,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "audi 100ls",
@@ -1522,7 +1900,10 @@
       "Acceleration": 14,
       "Year": "1973-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12191,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volvo 144ea",
@@ -1534,7 +1915,10 @@
       "Acceleration": 15.5,
       "Year": "1973-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16275,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge dart custom",
@@ -1546,7 +1930,10 @@
       "Acceleration": 11,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10140,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "saab 99le",
@@ -1558,7 +1945,10 @@
       "Acceleration": 14,
       "Year": "1973-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18488,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota mark ii",
@@ -1570,7 +1960,10 @@
       "Acceleration": 13.5,
       "Year": "1973-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12080,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "oldsmobile omega",
@@ -1582,7 +1975,10 @@
       "Acceleration": 11,
       "Year": "1973-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13529,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth duster",
@@ -1594,7 +1990,10 @@
       "Acceleration": 16.5,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17793,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford maverick",
@@ -1606,7 +2005,10 @@
       "Acceleration": 17,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14549,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc hornet",
@@ -1618,7 +2020,10 @@
       "Acceleration": 16,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15627,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet nova",
@@ -1630,7 +2035,10 @@
       "Acceleration": 17,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12729,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun b210",
@@ -1642,7 +2050,10 @@
       "Acceleration": 19,
       "Year": "1974-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18032,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford pinto",
@@ -1654,7 +2065,10 @@
       "Acceleration": 16.5,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18907,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corolla 1200",
@@ -1666,7 +2080,10 @@
       "Acceleration": 21,
       "Year": "1974-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10027,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet vega",
@@ -1678,7 +2095,10 @@
       "Acceleration": 17,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17734,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet chevelle malibu classic",
@@ -1690,7 +2110,10 @@
       "Acceleration": 17,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17272,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc matador",
@@ -1702,7 +2125,10 @@
       "Acceleration": 18,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12311,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth satellite sebring",
@@ -1714,7 +2140,10 @@
       "Acceleration": 16.5,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11246,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford gran torino",
@@ -1726,7 +2155,10 @@
       "Acceleration": 14,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16013,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick century luxus (sw)",
@@ -1738,7 +2170,10 @@
       "Acceleration": 14.5,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16143,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge coronet custom (sw)",
@@ -1750,7 +2185,10 @@
       "Acceleration": 13.5,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15553,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford gran torino (sw)",
@@ -1762,7 +2200,10 @@
       "Acceleration": 16,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12096,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc matador (sw)",
@@ -1774,7 +2215,10 @@
       "Acceleration": 15.5,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19586,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "audi fox",
@@ -1786,7 +2230,10 @@
       "Acceleration": 16.5,
       "Year": "1974-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17007,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen dasher",
@@ -1798,7 +2245,10 @@
       "Acceleration": 15.5,
       "Year": "1974-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11800,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "opel manta",
@@ -1810,7 +2260,10 @@
       "Acceleration": 14.5,
       "Year": "1974-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14324,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corona",
@@ -1822,7 +2275,10 @@
       "Acceleration": 16.5,
       "Year": "1974-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11144,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 710",
@@ -1834,7 +2290,10 @@
       "Acceleration": 19,
       "Year": "1974-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16325,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge colt",
@@ -1846,7 +2305,10 @@
       "Acceleration": 14.5,
       "Year": "1974-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19827,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "fiat 128",
@@ -1858,7 +2320,10 @@
       "Acceleration": 15.5,
       "Year": "1974-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11167,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "fiat 124 tc",
@@ -1870,7 +2335,10 @@
       "Acceleration": 14,
       "Year": "1974-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14472,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "honda civic",
@@ -1882,7 +2350,10 @@
       "Acceleration": 15,
       "Year": "1974-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19615,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "subaru",
@@ -1894,7 +2365,10 @@
       "Acceleration": 15.5,
       "Year": "1974-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14257,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "fiat x1.9",
@@ -1906,7 +2380,10 @@
       "Acceleration": 16,
       "Year": "1974-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18294,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth valiant custom",
@@ -1918,7 +2395,10 @@
       "Acceleration": 16,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19302,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet nova",
@@ -1930,7 +2410,10 @@
       "Acceleration": 16,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10924,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercury monarch",
@@ -1942,7 +2425,10 @@
       "Acceleration": 21,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17842,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford maverick",
@@ -1954,7 +2440,10 @@
       "Acceleration": 19.5,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12298,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac catalina",
@@ -1966,7 +2455,10 @@
       "Acceleration": 11.5,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15179,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet bel air",
@@ -1978,7 +2470,10 @@
       "Acceleration": 14,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19449,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth grand fury",
@@ -1990,7 +2485,10 @@
       "Acceleration": 14.5,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16177,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford ltd",
@@ -2002,7 +2500,10 @@
       "Acceleration": 13.5,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16591,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick century",
@@ -2014,7 +2515,10 @@
       "Acceleration": 21,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12031,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevroelt chevelle malibu",
@@ -2026,7 +2530,10 @@
       "Acceleration": 18.5,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12056,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc matador",
@@ -2038,7 +2545,10 @@
       "Acceleration": 19,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12792,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth fury",
@@ -2050,7 +2560,10 @@
       "Acceleration": 19,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17599,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick skyhawk",
@@ -2062,7 +2575,10 @@
       "Acceleration": 15,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17134,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet monza 2+2",
@@ -2074,7 +2590,10 @@
       "Acceleration": 13.5,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14126,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford mustang ii",
@@ -2086,7 +2605,10 @@
       "Acceleration": 12,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10027,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corolla",
@@ -2098,7 +2620,10 @@
       "Acceleration": 16,
       "Year": "1975-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18966,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford pinto",
@@ -2110,7 +2635,10 @@
       "Acceleration": 17,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17839,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc gremlin",
@@ -2122,7 +2650,10 @@
       "Acceleration": 16,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18165,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac astro",
@@ -2134,7 +2665,10 @@
       "Acceleration": 18.5,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11431,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corona",
@@ -2146,7 +2680,10 @@
       "Acceleration": 13.5,
       "Year": "1975-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11791,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen dasher",
@@ -2158,7 +2695,10 @@
       "Acceleration": 16.5,
       "Year": "1975-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14028,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 710",
@@ -2170,7 +2710,10 @@
       "Acceleration": 17,
       "Year": "1975-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15665,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford pinto",
@@ -2182,7 +2725,10 @@
       "Acceleration": 14.5,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16987,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen rabbit",
@@ -2194,7 +2740,10 @@
       "Acceleration": 14,
       "Year": "1975-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13571,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc pacer",
@@ -2206,7 +2755,10 @@
       "Acceleration": 17,
       "Year": "1975-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17083,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "audi 100ls",
@@ -2218,7 +2770,10 @@
       "Acceleration": 15,
       "Year": "1975-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15227,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "peugeot 504",
@@ -2230,7 +2785,10 @@
       "Acceleration": 17,
       "Year": "1975-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15891,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volvo 244dl",
@@ -2242,7 +2800,10 @@
       "Acceleration": 14.5,
       "Year": "1975-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19558,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "saab 99le",
@@ -2254,7 +2815,10 @@
       "Acceleration": 13.5,
       "Year": "1975-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10395,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "honda civic cvcc",
@@ -2266,7 +2830,10 @@
       "Acceleration": 17.5,
       "Year": "1975-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12128,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "fiat 131",
@@ -2278,7 +2845,10 @@
       "Acceleration": 15.5,
       "Year": "1976-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18530,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "opel 1900",
@@ -2290,7 +2860,10 @@
       "Acceleration": 16.9,
       "Year": "1976-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15488,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "capri ii",
@@ -2302,7 +2875,10 @@
       "Acceleration": 14.9,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16370,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge colt",
@@ -2314,7 +2890,10 @@
       "Acceleration": 17.7,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10177,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "renault 12tl",
@@ -2326,7 +2905,10 @@
       "Acceleration": 15.3,
       "Year": "1976-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13312,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet chevelle malibu classic",
@@ -2338,7 +2920,10 @@
       "Acceleration": 13,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18811,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge coronet brougham",
@@ -2350,7 +2935,10 @@
       "Acceleration": 13,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19642,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc matador",
@@ -2362,7 +2950,10 @@
       "Acceleration": 13.9,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16815,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford gran torino",
@@ -2374,7 +2965,10 @@
       "Acceleration": 12.8,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14265,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth valiant",
@@ -2386,7 +2980,10 @@
       "Acceleration": 15.4,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10476,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet nova",
@@ -2398,7 +2995,10 @@
       "Acceleration": 14.5,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17011,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford maverick",
@@ -2410,7 +3010,10 @@
       "Acceleration": 17.6,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15111,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc hornet",
@@ -2422,7 +3025,10 @@
       "Acceleration": 17.6,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10813,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet chevette",
@@ -2434,7 +3040,10 @@
       "Acceleration": 22.2,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11729,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet woody",
@@ -2446,7 +3055,10 @@
       "Acceleration": 22.1,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14296,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "vw rabbit",
@@ -2458,7 +3070,10 @@
       "Acceleration": 14.2,
       "Year": "1976-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17882,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "honda civic",
@@ -2470,7 +3085,10 @@
       "Acceleration": 17.4,
       "Year": "1976-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13800,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge aspen se",
@@ -2482,7 +3100,10 @@
       "Acceleration": 17.7,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19889,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford granada ghia",
@@ -2494,7 +3115,10 @@
       "Acceleration": 21,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18691,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac ventura sj",
@@ -2506,7 +3130,10 @@
       "Acceleration": 16.2,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16218,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc pacer d/l",
@@ -2518,7 +3145,10 @@
       "Acceleration": 17.8,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11007,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen rabbit",
@@ -2530,7 +3160,10 @@
       "Acceleration": 12.2,
       "Year": "1976-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11786,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun b-210",
@@ -2542,7 +3175,10 @@
       "Acceleration": 17,
       "Year": "1976-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13378,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corolla",
@@ -2554,7 +3190,10 @@
       "Acceleration": 16.4,
       "Year": "1976-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17218,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford pinto",
@@ -2566,7 +3205,10 @@
       "Acceleration": 13.6,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16056,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volvo 245",
@@ -2578,7 +3220,10 @@
       "Acceleration": 15.7,
       "Year": "1976-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18366,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth volare premier v8",
@@ -2590,7 +3235,10 @@
       "Acceleration": 13.2,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17220,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "peugeot 504",
@@ -2602,7 +3250,10 @@
       "Acceleration": 21.9,
       "Year": "1976-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17703,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota mark ii",
@@ -2614,7 +3265,10 @@
       "Acceleration": 15.5,
       "Year": "1976-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12986,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercedes-benz 280s",
@@ -2626,7 +3280,10 @@
       "Acceleration": 16.7,
       "Year": "1976-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15074,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "cadillac seville",
@@ -2638,7 +3295,10 @@
       "Acceleration": 12.1,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19899,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevy c10",
@@ -2650,7 +3310,10 @@
       "Acceleration": 12,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19866,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford f108",
@@ -2662,7 +3325,10 @@
       "Acceleration": 15,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14757,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge d100",
@@ -2674,7 +3340,10 @@
       "Acceleration": 14,
       "Year": "1976-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17362,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "honda Accelerationord cvcc",
@@ -2686,7 +3355,10 @@
       "Acceleration": 18.5,
       "Year": "1977-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18843,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick opel isuzu deluxe",
@@ -2698,7 +3370,10 @@
       "Acceleration": 14.8,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17912,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "renault 5 gtl",
@@ -2710,7 +3385,10 @@
       "Acceleration": 18.6,
       "Year": "1977-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16163,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth arrow gs",
@@ -2722,7 +3400,10 @@
       "Acceleration": 15.5,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18114,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun f-10 hatchback",
@@ -2734,7 +3415,10 @@
       "Acceleration": 16.8,
       "Year": "1977-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14172,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet caprice classic",
@@ -2746,7 +3430,10 @@
       "Acceleration": 12.5,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18433,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "oldsmobile cutlass supreme",
@@ -2758,7 +3445,10 @@
       "Acceleration": 19,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19514,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge monaco brougham",
@@ -2770,7 +3460,10 @@
       "Acceleration": 13.7,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18298,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercury cougar brougham",
@@ -2782,7 +3475,10 @@
       "Acceleration": 14.9,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17103,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet concours",
@@ -2794,7 +3490,10 @@
       "Acceleration": 16.4,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19206,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick skylark",
@@ -2806,7 +3505,10 @@
       "Acceleration": 16.9,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15245,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth volare custom",
@@ -2818,7 +3520,10 @@
       "Acceleration": 17.7,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13936,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford granada",
@@ -2830,7 +3535,10 @@
       "Acceleration": 19,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17776,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac grand prix lj",
@@ -2842,7 +3550,10 @@
       "Acceleration": 11.1,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11796,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet monte carlo landau",
@@ -2854,7 +3565,10 @@
       "Acceleration": 11.4,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14624,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chrysler cordoba",
@@ -2866,7 +3580,10 @@
       "Acceleration": 12.2,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10168,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford thunderbird",
@@ -2878,7 +3595,10 @@
       "Acceleration": 14.5,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18536,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen rabbit custom",
@@ -2890,7 +3610,10 @@
       "Acceleration": 14.5,
       "Year": "1977-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18164,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac sunbird coupe",
@@ -2902,7 +3625,10 @@
       "Acceleration": 16,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11029,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corolla liftback",
@@ -2914,7 +3640,10 @@
       "Acceleration": 18.2,
       "Year": "1977-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11304,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford mustang ii 2+2",
@@ -2926,7 +3655,10 @@
       "Acceleration": 15.8,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14420,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet chevette",
@@ -2938,7 +3670,10 @@
       "Acceleration": 17,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16709,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge colt m/m",
@@ -2950,7 +3685,10 @@
       "Acceleration": 15.9,
       "Year": "1977-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13512,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "subaru dl",
@@ -2962,7 +3700,10 @@
       "Acceleration": 16.4,
       "Year": "1977-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17724,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen dasher",
@@ -2974,7 +3715,10 @@
       "Acceleration": 14.1,
       "Year": "1977-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14268,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 810",
@@ -2986,7 +3730,10 @@
       "Acceleration": 14.5,
       "Year": "1977-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19799,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "bmw 320i",
@@ -2998,7 +3745,10 @@
       "Acceleration": 12.8,
       "Year": "1977-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12382,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mazda rx-4",
@@ -3010,7 +3760,10 @@
       "Acceleration": 13.5,
       "Year": "1977-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16906,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen rabbit custom diesel",
@@ -3022,7 +3775,10 @@
       "Acceleration": 21.5,
       "Year": "1978-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13309,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford fiesta",
@@ -3034,7 +3790,10 @@
       "Acceleration": 14.4,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16833,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mazda glc deluxe",
@@ -3046,7 +3805,10 @@
       "Acceleration": 19.4,
       "Year": "1978-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11949,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun b210 gx",
@@ -3058,7 +3820,10 @@
       "Acceleration": 18.6,
       "Year": "1978-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17246,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "honda civic cvcc",
@@ -3070,7 +3835,10 @@
       "Acceleration": 16.4,
       "Year": "1978-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11141,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "oldsmobile cutlass salon brougham",
@@ -3082,7 +3850,10 @@
       "Acceleration": 15.5,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11338,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge diplomat",
@@ -3094,7 +3865,10 @@
       "Acceleration": 13.2,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19538,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercury monarch ghia",
@@ -3106,7 +3880,10 @@
       "Acceleration": 12.8,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11761,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac phoenix lj",
@@ -3118,7 +3895,10 @@
       "Acceleration": 19.2,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16212,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet malibu",
@@ -3130,7 +3910,10 @@
       "Acceleration": 18.2,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11313,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford fairmont (auto)",
@@ -3142,7 +3925,10 @@
       "Acceleration": 15.8,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17612,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford fairmont (man)",
@@ -3154,7 +3940,10 @@
       "Acceleration": 15.4,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12660,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth volare",
@@ -3166,7 +3955,10 @@
       "Acceleration": 17.2,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11504,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc concord",
@@ -3178,7 +3970,10 @@
       "Acceleration": 17.2,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11635,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick century special",
@@ -3190,7 +3985,10 @@
       "Acceleration": 15.8,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14304,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercury zephyr",
@@ -3202,7 +4000,10 @@
       "Acceleration": 16.7,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18705,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge aspen",
@@ -3214,7 +4015,10 @@
       "Acceleration": 18.7,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14050,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc concord d/l",
@@ -3226,7 +4030,10 @@
       "Acceleration": 15.1,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19494,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet monte carlo landau",
@@ -3238,7 +4045,10 @@
       "Acceleration": 13.2,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13521,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick regal sport coupe (turbo)",
@@ -3250,7 +4060,10 @@
       "Acceleration": 13.4,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14194,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford futura",
@@ -3262,7 +4075,10 @@
       "Acceleration": 11.2,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10019,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge magnum xe",
@@ -3274,7 +4090,10 @@
       "Acceleration": 13.7,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13244,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet chevette",
@@ -3286,7 +4105,10 @@
       "Acceleration": 16.5,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16243,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corona",
@@ -3298,7 +4120,10 @@
       "Acceleration": 14.2,
       "Year": "1978-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14915,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 510",
@@ -3310,7 +4135,10 @@
       "Acceleration": 14.7,
       "Year": "1978-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16927,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge omni",
@@ -3322,7 +4150,10 @@
       "Acceleration": 14.5,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10803,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota celica gt liftback",
@@ -3334,7 +4165,10 @@
       "Acceleration": 14.8,
       "Year": "1978-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16705,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth sapporo",
@@ -3346,7 +4180,10 @@
       "Acceleration": 16.7,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14097,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "oldsmobile starfire sx",
@@ -3358,7 +4195,10 @@
       "Acceleration": 17.6,
       "Year": "1978-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13339,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 200-sx",
@@ -3370,7 +4210,10 @@
       "Acceleration": 14.9,
       "Year": "1978-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19152,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "audi 5000",
@@ -3382,7 +4225,10 @@
       "Acceleration": 15.9,
       "Year": "1978-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18977,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volvo 264gl",
@@ -3394,7 +4240,10 @@
       "Acceleration": 13.6,
       "Year": "1978-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12578,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "saab 99gle",
@@ -3406,7 +4255,10 @@
       "Acceleration": 15.7,
       "Year": "1978-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19225,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "peugeot 604sl",
@@ -3418,7 +4270,10 @@
       "Acceleration": 15.8,
       "Year": "1978-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11380,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen scirocco",
@@ -3430,7 +4285,10 @@
       "Acceleration": 14.9,
       "Year": "1978-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18306,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "honda Accelerationord lx",
@@ -3442,7 +4300,10 @@
       "Acceleration": 16.6,
       "Year": "1978-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19902,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac lemans v6",
@@ -3454,7 +4315,10 @@
       "Acceleration": 15.4,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15924,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercury zephyr 6",
@@ -3466,7 +4330,10 @@
       "Acceleration": 18.2,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15937,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford fairmont 4",
@@ -3478,7 +4345,10 @@
       "Acceleration": 17.3,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15138,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc concord dl 6",
@@ -3490,7 +4360,10 @@
       "Acceleration": 18.2,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12318,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge aspen 6",
@@ -3502,7 +4375,10 @@
       "Acceleration": 16.6,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18607,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet caprice classic",
@@ -3514,7 +4390,10 @@
       "Acceleration": 15.4,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13162,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford ltd landau",
@@ -3526,7 +4405,10 @@
       "Acceleration": 13.4,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18153,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercury grand marquis",
@@ -3538,7 +4420,10 @@
       "Acceleration": 13.2,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19829,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge st. regis",
@@ -3550,7 +4435,10 @@
       "Acceleration": 15.2,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16155,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick estate wagon (sw)",
@@ -3562,7 +4450,10 @@
       "Acceleration": 14.9,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13139,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford country squire (sw)",
@@ -3574,7 +4465,10 @@
       "Acceleration": 14.3,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18690,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet malibu classic (sw)",
@@ -3586,7 +4480,10 @@
       "Acceleration": 15,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18760,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chrysler lebaron town @ country (sw)",
@@ -3598,7 +4495,10 @@
       "Acceleration": 13,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18551,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "vw rabbit custom",
@@ -3610,7 +4510,10 @@
       "Acceleration": 14,
       "Year": "1979-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10693,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "maxda glc deluxe",
@@ -3622,7 +4525,10 @@
       "Acceleration": 15.2,
       "Year": "1979-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13056,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge colt hatchback custom",
@@ -3634,7 +4540,10 @@
       "Acceleration": 14.4,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18311,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc spirit dl",
@@ -3646,7 +4555,10 @@
       "Acceleration": 15,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18264,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercedes benz 300d",
@@ -3658,7 +4570,10 @@
       "Acceleration": 20.1,
       "Year": "1979-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16416,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "cadillac eldorado",
@@ -3670,7 +4585,10 @@
       "Acceleration": 17.4,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16207,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "peugeot 504",
@@ -3682,7 +4600,10 @@
       "Acceleration": 24.8,
       "Year": "1979-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11245,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "oldsmobile cutlass salon brougham",
@@ -3694,7 +4615,10 @@
       "Acceleration": 22.2,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12551,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth horizon",
@@ -3706,7 +4630,10 @@
       "Acceleration": 13.2,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19100,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth horizon tc3",
@@ -3718,7 +4645,10 @@
       "Acceleration": 14.9,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11946,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 210",
@@ -3730,7 +4660,10 @@
       "Acceleration": 19.2,
       "Year": "1979-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13952,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "fiat strada custom",
@@ -3742,7 +4675,10 @@
       "Acceleration": 14.7,
       "Year": "1979-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11172,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick skylark limited",
@@ -3754,7 +4690,10 @@
       "Acceleration": 16,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14742,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet citation",
@@ -3766,7 +4705,10 @@
       "Acceleration": 11.3,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13410,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "oldsmobile omega brougham",
@@ -3778,7 +4720,10 @@
       "Acceleration": 12.9,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10723,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac phoenix",
@@ -3790,7 +4735,10 @@
       "Acceleration": 13.2,
       "Year": "1979-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14530,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "vw rabbit",
@@ -3802,7 +4750,10 @@
       "Acceleration": 14.7,
       "Year": "1980-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15834,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corolla tercel",
@@ -3814,7 +4765,10 @@
       "Acceleration": 18.8,
       "Year": "1980-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14803,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet chevette",
@@ -3826,7 +4780,10 @@
       "Acceleration": 15.5,
       "Year": "1980-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15988,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 310",
@@ -3838,7 +4795,10 @@
       "Acceleration": 16.4,
       "Year": "1980-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18860,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet citation",
@@ -3850,7 +4810,10 @@
       "Acceleration": 16.5,
       "Year": "1980-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14318,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford fairmont",
@@ -3862,7 +4825,10 @@
       "Acceleration": 18.1,
       "Year": "1980-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16767,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc concord",
@@ -3874,7 +4840,10 @@
       "Acceleration": 20.1,
       "Year": "1980-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10664,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge aspen",
@@ -3886,7 +4855,10 @@
       "Acceleration": 18.7,
       "Year": "1980-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15545,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "audi 4000",
@@ -3898,7 +4870,10 @@
       "Acceleration": 15.8,
       "Year": "1980-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11991,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corona liftback",
@@ -3910,7 +4885,10 @@
       "Acceleration": 15.5,
       "Year": "1980-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10208,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mazda 626",
@@ -3922,7 +4900,10 @@
       "Acceleration": 17.5,
       "Year": "1980-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14552,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 510 hatchback",
@@ -3934,7 +4915,10 @@
       "Acceleration": 15,
       "Year": "1980-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14400,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corolla",
@@ -3946,7 +4930,10 @@
       "Acceleration": 15.2,
       "Year": "1980-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16371,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mazda glc",
@@ -3958,7 +4945,10 @@
       "Acceleration": 17.9,
       "Year": "1980-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14269,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge colt",
@@ -3970,7 +4960,10 @@
       "Acceleration": 14.4,
       "Year": "1980-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17696,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 210",
@@ -3982,7 +4975,10 @@
       "Acceleration": 19.2,
       "Year": "1980-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10122,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "vw rabbit c (diesel)",
@@ -3994,7 +4990,10 @@
       "Acceleration": 21.7,
       "Year": "1980-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13227,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "vw dasher (diesel)",
@@ -4006,7 +5005,10 @@
       "Acceleration": 23.7,
       "Year": "1980-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12225,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "audi 5000s (diesel)",
@@ -4018,7 +5020,10 @@
       "Acceleration": 19.9,
       "Year": "1980-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16858,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercedes-benz 240d",
@@ -4030,7 +5035,10 @@
       "Acceleration": 21.8,
       "Year": "1980-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12427,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "honda civic 1500 gl",
@@ -4042,7 +5050,10 @@
       "Acceleration": 13.8,
       "Year": "1980-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10814,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "renault lecar deluxe",
@@ -4054,7 +5065,10 @@
       "Acceleration": 17.3,
       "Year": "1980-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17733,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "subaru dl",
@@ -4066,7 +5080,10 @@
       "Acceleration": 18,
       "Year": "1980-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13135,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "vokswagen rabbit",
@@ -4078,7 +5095,10 @@
       "Acceleration": 15.3,
       "Year": "1980-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14090,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 280-zx",
@@ -4090,7 +5110,10 @@
       "Acceleration": 11.4,
       "Year": "1980-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18894,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mazda rx-7 gs",
@@ -4102,7 +5125,10 @@
       "Acceleration": 12.5,
       "Year": "1980-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17970,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "triumph tr7 coupe",
@@ -4114,7 +5140,10 @@
       "Acceleration": 15.1,
       "Year": "1980-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15071,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford mustang cobra",
@@ -4126,7 +5155,10 @@
       "Acceleration": 14.3,
       "Year": "1980-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16944,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "honda Accelerationord",
@@ -4138,7 +5170,10 @@
       "Acceleration": 17,
       "Year": "1980-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13958,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth reliant",
@@ -4150,7 +5185,10 @@
       "Acceleration": 15.7,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15152,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick skylark",
@@ -4162,7 +5200,10 @@
       "Acceleration": 16.4,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10729,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge aries wagon (sw)",
@@ -4174,7 +5215,10 @@
       "Acceleration": 14.4,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16683,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet citation",
@@ -4186,7 +5230,10 @@
       "Acceleration": 12.6,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10552,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth reliant",
@@ -4198,7 +5245,10 @@
       "Acceleration": 12.9,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16277,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota starlet",
@@ -4210,7 +5260,10 @@
       "Acceleration": 16.9,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19339,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth champ",
@@ -4222,7 +5275,10 @@
       "Acceleration": 16.4,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19580,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "honda civic 1300",
@@ -4234,7 +5290,10 @@
       "Acceleration": 16.1,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13058,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "subaru",
@@ -4246,7 +5305,10 @@
       "Acceleration": 17.8,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14936,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 210",
@@ -4258,7 +5320,10 @@
       "Acceleration": 19.4,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13384,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota tercel",
@@ -4270,7 +5335,10 @@
       "Acceleration": 17.3,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16681,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mazda glc 4",
@@ -4282,7 +5350,10 @@
       "Acceleration": 16,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18798,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth horizon 4",
@@ -4294,7 +5365,10 @@
       "Acceleration": 14.9,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11351,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford escort 4w",
@@ -4306,7 +5380,10 @@
       "Acceleration": 16.2,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15347,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford escort 2h",
@@ -4318,7 +5395,10 @@
       "Acceleration": 20.7,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16146,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen jetta",
@@ -4330,7 +5410,10 @@
       "Acceleration": 14.2,
       "Year": "1982-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14632,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "renault 18i",
@@ -4342,7 +5425,10 @@
       "Acceleration": 15.8,
       "Year": "1982-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19378,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "honda prelude",
@@ -4354,7 +5440,10 @@
       "Acceleration": 14.4,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15077,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corolla",
@@ -4366,7 +5455,10 @@
       "Acceleration": 16.8,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12339,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 200sx",
@@ -4378,7 +5470,10 @@
       "Acceleration": 14.8,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18535,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mazda 626",
@@ -4390,7 +5485,10 @@
       "Acceleration": 18.3,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13962,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "peugeot 505s turbo diesel",
@@ -4402,7 +5500,10 @@
       "Acceleration": 20.4,
       "Year": "1982-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17196,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "saab 900s",
@@ -4414,7 +5515,10 @@
       "Acceleration": 15.4,
       "Year": "1982-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15139,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volvo diesel",
@@ -4426,7 +5530,10 @@
       "Acceleration": 19.6,
       "Year": "1982-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18425,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota cressida",
@@ -4438,7 +5545,10 @@
       "Acceleration": 12.6,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16754,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 810 maxima",
@@ -4450,7 +5560,10 @@
       "Acceleration": 13.8,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19546,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick century",
@@ -4462,7 +5575,10 @@
       "Acceleration": 15.8,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14812,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "oldsmobile cutlass ls",
@@ -4474,7 +5590,10 @@
       "Acceleration": 19,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16742,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford granada gl",
@@ -4486,7 +5605,10 @@
       "Acceleration": 17.1,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11864,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chrysler lebaron salon",
@@ -4498,7 +5620,10 @@
       "Acceleration": 16.6,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13224,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet cavalier",
@@ -4510,7 +5635,10 @@
       "Acceleration": 19.6,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11769,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet cavalier wagon",
@@ -4522,7 +5650,10 @@
       "Acceleration": 18.6,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19624,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet cavalier 2-door",
@@ -4534,7 +5665,10 @@
       "Acceleration": 18,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13041,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac j2000 se hatchback",
@@ -4546,7 +5680,10 @@
       "Acceleration": 16.2,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15719,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge aries se",
@@ -4558,7 +5695,10 @@
       "Acceleration": 16,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17367,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "pontiac phoenix",
@@ -4570,7 +5710,10 @@
       "Acceleration": 18,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11761,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford fairmont futura",
@@ -4582,7 +5725,10 @@
       "Acceleration": 16.4,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10493,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "amc concord dl",
@@ -4594,7 +5740,10 @@
       "Acceleration": 20.5,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17093,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "volkswagen rabbit l",
@@ -4606,7 +5755,10 @@
       "Acceleration": 15.3,
       "Year": "1982-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18504,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mazda glc custom l",
@@ -4618,7 +5770,10 @@
       "Acceleration": 18.2,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13455,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mazda glc custom",
@@ -4630,7 +5785,10 @@
       "Acceleration": 17.6,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14014,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "plymouth horizon miser",
@@ -4642,7 +5800,10 @@
       "Acceleration": 14.7,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13437,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "mercury lynx l",
@@ -4654,7 +5815,10 @@
       "Acceleration": 17.3,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19925,
+      "Quantity": 10,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "nissan stanza xe",
@@ -4666,7 +5830,10 @@
       "Acceleration": 14.5,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13077,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "honda Accelerationord",
@@ -4678,7 +5845,10 @@
       "Acceleration": 14.5,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19080,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota corolla",
@@ -4690,7 +5860,10 @@
       "Acceleration": 16.9,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17469,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "honda civic",
@@ -4702,7 +5875,10 @@
       "Acceleration": 15,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 10333,
+      "Quantity": 3,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "honda civic (auto)",
@@ -4714,7 +5890,10 @@
       "Acceleration": 15.7,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15165,
+      "Quantity": 4,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "datsun 310 gx",
@@ -4726,7 +5905,10 @@
       "Acceleration": 16.2,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 19241,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "buick century limited",
@@ -4738,7 +5920,10 @@
       "Acceleration": 16.4,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13666,
+      "Quantity": 6,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "oldsmobile cutlass ciera (diesel)",
@@ -4750,7 +5935,10 @@
       "Acceleration": 17,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14864,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chrysler lebaron medallion",
@@ -4762,7 +5950,10 @@
       "Acceleration": 14.5,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16138,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford granada l",
@@ -4774,7 +5965,10 @@
       "Acceleration": 14.7,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11177,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "toyota celica gt",
@@ -4786,7 +5980,10 @@
       "Acceleration": 13.9,
       "Year": "1982-01-01",
       "Origin": "Japan",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 11835,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge charger 2.2",
@@ -4798,7 +5995,10 @@
       "Acceleration": 13,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 16016,
+      "Quantity": 2,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevrolet camaro",
@@ -4810,7 +6010,10 @@
       "Acceleration": 17.3,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 17055,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford mustang gl",
@@ -4822,7 +6025,10 @@
       "Acceleration": 15.6,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 18149,
+      "Quantity": 5,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "vw pickup",
@@ -4834,7 +6040,10 @@
       "Acceleration": 24.6,
       "Year": "1982-01-01",
       "Origin": "Europe",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 15438,
+      "Quantity": 1,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "dodge rampage",
@@ -4846,7 +6055,10 @@
       "Acceleration": 11.6,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 14288,
+      "Quantity": 7,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "ford ranger",
@@ -4858,7 +6070,10 @@
       "Acceleration": 18.6,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 13755,
+      "Quantity": 8,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     },
     {
       "Name": "chevy s-10",
@@ -4870,7 +6085,10 @@
       "Acceleration": 19.4,
       "Year": "1982-01-01",
       "Origin": "USA",
-      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg"
+      "Price": 12877,
+      "Quantity": 9,
+      "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
+      "Bought": false
     }
   ]
 }

@@ -4495,7 +4495,7 @@ let addPicture = function() {
   return cars;
 };
 
-addPicture(cars);
+// addPicture(cars);
 
 let addBought = function() {
   cars.forEach(car => {
