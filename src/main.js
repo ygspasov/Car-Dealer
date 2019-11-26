@@ -3,19 +3,24 @@ import App from "./App.vue";
 import router from "./router";
 import store from "./store";
 import vuetify from "./plugins/vuetify";
+import "./filters/filters";
 
-Vue.filter("USD", function(value) {
-  return `USD ${value}`;
-});
+// Import the Auth0 configuration
+import { domain, clientId } from "../auth_config.json";
 
-Vue.filter("litresPer100km", function(value) {
-  if (value) {
-    return Math.round((100 * 3.785411784) / (1.609344 * value));
-  }
-});
-Vue.filter("lbsToKg", function(value) {
-  if (value) {
-    return Math.round(value * 0.45359237);
+// Import the plugin here
+import { Auth0Plugin } from "./auth";
+
+// Install the authentication plugin here
+Vue.use(Auth0Plugin, {
+  domain,
+  clientId,
+  onRedirectCallback: appState => {
+    router.push(
+      appState && appState.targetUrl
+        ? appState.targetUrl
+        : window.location.pathname
+    );
   }
 });
 
