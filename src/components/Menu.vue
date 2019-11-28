@@ -1,32 +1,29 @@
 <template>
   <v-app-bar app color="primary" dark>
     <div class="d-flex align-center">
-      <v-img
-        alt="Vuetify Logo"
-        class="shrink mr-2"
-        contain
-        src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
-        transition="scale-transition"
-        width="40"
-      />
-
-      <v-img
-        alt="Vuetify Name"
-        class="shrink mt-1 hidden-sm-and-down"
-        contain
-        min-width="100"
-        src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
-        width="100"
-      />
+      <h1 class=" indigo--text text--lighten-4 ">Car Trader</h1>
     </div>
 
     <v-spacer></v-spacer>
 
     <div v-if="!$auth.loading">
       <!-- show login when not authenticated -->
-      <v-btn class="white indigo--text" v-if="!$auth.isAuthenticated" @click="login">Log in</v-btn>
+      <v-btn
+        class="indigo lighten-5 indigo--text "
+        v-if="!$auth.isAuthenticated"
+        @click="login"
+        ><v-icon v-if="!$auth.isAuthenticated" class="shrink mr-2 ">face</v-icon
+        >Log in</v-btn
+      >
       <!-- show logout when authenticated -->
-      <v-btn class="white indigo--text" v-if="$auth.isAuthenticated" @click="logout">Log out</v-btn>
+
+      <v-btn
+        class=" indigo lighten-4 indigo--text"
+        v-if="$auth.isAuthenticated"
+        @click="logout"
+        ><v-icon v-if="$auth.isAuthenticated" class="shrink mr-2 ">done</v-icon
+        >Log out</v-btn
+      >
     </div>
   </v-app-bar>
 </template>

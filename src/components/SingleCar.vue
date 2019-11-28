@@ -5,9 +5,16 @@
         <v-card-title class="text-capitalize">{{ car.Name }}</v-card-title>
       </v-img>
 
-      <v-card-subtitle class="pb-0 headline indigo--text text--darken-4">{{
-        car.Price | USD
-      }}</v-card-subtitle>
+      <v-card-subtitle
+        v-if="!showEdit"
+        class="pb-0 headline indigo--text text--darken-4"
+        >{{ car.Price | USD }}</v-card-subtitle
+      >
+      <v-card-subtitle
+        v-if="showEdit"
+        class="pb-0 headline indigo--text text--darken-4"
+        ><input type="text" placeholder="Enter new price"
+      /></v-card-subtitle>
 
       <v-card-text class="white--text mt-2 body-3 indigo pt-3 card-text">
         <div class="miles">
@@ -33,14 +40,21 @@
 
         <div>Year: {{ car.Year | formatDate }}</div>
         <div>Origin: {{ car.Origin }}</div>
-        <div>Quantity: {{ car.Quantity }}</div>
+        <div v-if="!showEdit">Quantity: {{ car.Quantity }}</div>
+        <input v-if="showEdit" type="text" placeholder="Enter new quantity" />
         <div>Displacement: {{ car.Displacement }}</div>
       </v-card-text>
 
       <v-card-actions>
-        <v-btn class="indigo--text" text>Share</v-btn>
+        <v-btn
+          v-if="$auth.isAuthenticated"
+          class="indigo--text"
+          @click="showEdit = !showEdit"
+          text
+          >Edit</v-btn
+        >
 
-        <v-btn class="indigo--text" text>Explore</v-btn>
+        <v-btn class="indigo--text" text>Buy</v-btn>
       </v-card-actions>
     </v-card>
   </v-col>
@@ -52,7 +66,7 @@ export default {
     car: { type: Object }
   },
   data() {
-    return { switchMiles: true, switchLbs: true };
+    return { switchMiles: true, switchLbs: true, showEdit: false };
   }
 };
 </script>
