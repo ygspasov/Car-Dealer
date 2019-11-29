@@ -81,6 +81,9 @@ export default {
       this.pageSize = size;
       this.updateVisibleCars();
       this.getNumberOfTabs();
+    },
+    updateComp() {
+      this.loadCars();
     }
   }
 };

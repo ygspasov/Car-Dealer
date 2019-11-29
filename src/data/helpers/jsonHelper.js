@@ -4476,7 +4476,7 @@ let addPrice = function() {
   });
   return cars;
 };
-// addPrice(cars);
+addPrice(cars);
 
 let addQuantity = function() {
   cars.forEach(car => {
@@ -4485,7 +4485,7 @@ let addQuantity = function() {
   });
   return cars;
 };
-// addQuantity(cars);
+addQuantity(cars);
 
 let addPicture = function() {
   cars.forEach(car => {
@@ -4495,7 +4495,7 @@ let addPicture = function() {
   return cars;
 };
 
-// addPicture(cars);
+addPicture(cars);
 
 let addBought = function() {
   cars.forEach(car => {
@@ -4504,7 +4504,17 @@ let addBought = function() {
   return cars;
 };
 
-// addBought(cars);
+addBought(cars);
+
+let addId = function() {
+  let id = 0;
+  cars.forEach(car => {
+    car.id = +id;
+    id += 1;
+  });
+};
+
+addId(cars);
 
 let data = JSON.stringify(cars);
 fs.writeFileSync("data.json", data);

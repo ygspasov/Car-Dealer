@@ -1,7 +1,7 @@
 <template>
   <v-app-bar app color="primary" dark>
     <div class="d-flex align-center">
-      <h1 class=" indigo--text text--lighten-4 ">Car Trader</h1>
+      <h1 class=" indigo--text text--lighten-4 ">Car Dealer</h1>
     </div>
 
     <v-spacer></v-spacer>
