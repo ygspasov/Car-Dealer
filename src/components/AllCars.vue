@@ -2,6 +2,10 @@
   <div id="main">
     <h1>All cars</h1>
     <v-container fluid>
+      <v-row>
+      </v-row>
+    </v-container>
+    <v-container fluid>
       <v-row class="cars mt-4">
         <SingleCar v-for="(car, i) of visibleCars.slice(0,50)" :key="i" :car="car">
           {{

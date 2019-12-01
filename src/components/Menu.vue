@@ -1,29 +1,22 @@
 <template>
   <v-app-bar app color="primary" dark>
-    <div class="d-flex align-center">
-      <h1 class=" indigo--text text--lighten-4 ">Car Dealer</h1>
-    </div>
+    <nav class="d-flex align-center">
+      <router-link tag="a" class="indigo--text text--lighten-5 headline" to="/">Car Dealer</router-link>
+      <router-link to="/addcarform" class="indigo--text text--lighten-4 subtitle-1" tag="a">Add car</router-link>
+    </nav>
 
     <v-spacer></v-spacer>
 
     <div v-if="!$auth.loading">
       <!-- show login when not authenticated -->
-      <v-btn
-        class="indigo lighten-5 indigo--text "
-        v-if="!$auth.isAuthenticated"
-        @click="login"
-        ><v-icon v-if="!$auth.isAuthenticated" class="shrink mr-2 ">face</v-icon
-        >Log in</v-btn
-      >
+      <v-btn class="indigo lighten-5 indigo--text" v-if="!$auth.isAuthenticated" @click="login">
+        <v-icon v-if="!$auth.isAuthenticated" class="shrink mr-2">face</v-icon>Log in
+      </v-btn>
       <!-- show logout when authenticated -->
 
-      <v-btn
-        class=" indigo lighten-4 indigo--text"
-        v-if="$auth.isAuthenticated"
-        @click="logout"
-        ><v-icon v-if="$auth.isAuthenticated" class="shrink mr-2 ">done</v-icon
-        >Log out</v-btn
-      >
+      <v-btn class="indigo lighten-4 indigo--text" v-if="$auth.isAuthenticated" @click="logout">
+        <v-icon v-if="$auth.isAuthenticated" class="shrink mr-2">done</v-icon>Log out
+      </v-btn>
     </div>
   </v-app-bar>
 </template>
@@ -47,4 +40,9 @@ export default {
 };
 </script>
 
-<style></style>
+<style scoped>
+#app nav a {
+  text-decoration: none;
+  margin-left: 20px;
+}
+</style>

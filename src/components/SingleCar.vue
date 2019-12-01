@@ -12,7 +12,7 @@
       <v-card-subtitle v-if="showEdit" class="pb-0 headline indigo--text text--darken-4">
         <input type="text" placeholder="Enter new price" v-model="price" />
         <v-btn text icon color="indigo" @click="updatePrice">
-          <v-icon>cached</v-icon>
+          <v-icon>save</v-icon>
         </v-btn>
       </v-card-subtitle>
 
@@ -40,7 +40,7 @@
         <div v-if="!showEdit">Quantity: {{ car.Quantity }}</div>
         <input v-if="showEdit" type="text" placeholder="Enter new quantity" v-model="quantity" />
         <v-btn v-if="showEdit" text icon color="indigo accent-1" @click="updateQuantity" class>
-          <v-icon>cached</v-icon>
+          <v-icon>saved</v-icon>
         </v-btn>
         <div>Displacement: {{ car.Displacement }}</div>
       </v-card-text>
