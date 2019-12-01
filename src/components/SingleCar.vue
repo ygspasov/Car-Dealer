@@ -8,8 +8,12 @@
       <v-card-subtitle
         v-if="!showEdit"
         class="pb-0 headline indigo--text text--darken-4"
-      >{{ car.Price | USD }}</v-card-subtitle>
-      <v-card-subtitle v-if="showEdit" class="pb-0 headline indigo--text text--darken-4">
+        >{{ car.Price | USD }}</v-card-subtitle
+      >
+      <v-card-subtitle
+        v-if="showEdit"
+        class="pb-0 headline indigo--text text--darken-4"
+      >
         <input type="text" placeholder="Enter new price" v-model="price" />
         <v-btn text icon color="indigo" @click="updatePrice">
           <v-icon>save</v-icon>
@@ -18,11 +22,12 @@
 
       <v-card-text class="white--text mt-2 body-3 indigo pt-3 card-text">
         <div class="miles">
-          <div v-if="switchMiles" class="ml">Miles per Gallon: {{ car.Miles_per_Gallon }}</div>
-          <div
-            v-if="!switchMiles"
-            class="km"
-          >Liters per 100km: {{ car.Miles_per_Gallon | litresPer100km }}</div>
+          <div v-if="switchMiles" class="ml">
+            Miles per Gallon: {{ car.Miles_per_Gallon }}
+          </div>
+          <div v-if="!switchMiles" class="km">
+            Liters per 100km: {{ car.Miles_per_Gallon | litresPer100km }}
+          </div>
           <v-switch v-model="switchMiles" class="ml-5"></v-switch>
         </div>
 
@@ -31,25 +36,46 @@
         <div>Horsepower: {{ car.Horsepower }}</div>
         <div class="lbs">
           <div v-if="switchLbs">Weight in lbs: {{ car.Weight_in_lbs }}</div>
-          <div v-if="!switchLbs">Weight in kg: {{ car.Weight_in_lbs | lbsToKg }}</div>
+          <div v-if="!switchLbs">
+            Weight in kg: {{ car.Weight_in_lbs | lbsToKg }}
+          </div>
           <v-switch v-model="switchLbs" class="ml-5"></v-switch>
         </div>
 
         <div>Year: {{ car.Year | formatDate }}</div>
         <div>Origin: {{ car.Origin }}</div>
         <div v-if="!showEdit">Quantity: {{ car.Quantity }}</div>
-        <input v-if="showEdit" type="text" placeholder="Enter new quantity" v-model="quantity" />
-        <v-btn v-if="showEdit" text icon color="indigo accent-1" @click="updateQuantity" class>
+        <input
+          v-if="showEdit"
+          type="text"
+          placeholder="Enter new quantity"
+          v-model="quantity"
+        />
+        <v-btn
+          v-if="showEdit"
+          text
+          icon
+          color="indigo accent-1"
+          @click="updateQuantity"
+          class
+        >
           <v-icon>saved</v-icon>
         </v-btn>
-        <div>Displacement: {{ car.Displacement }}</div>
       </v-card-text>
 
       <v-card-actions>
-        <v-btn v-if="$auth.isAuthenticated" @click="showEdit = !showEdit" text>Edit</v-btn>
+        <v-btn v-if="$auth.isAuthenticated" @click="showEdit = !showEdit" text
+          >Edit</v-btn
+        >
 
         <v-btn class="indigo--text" text>Buy</v-btn>
-        <v-btn v-if="$auth.isAuthenticated" class="indigo--text" text @click="delCar">Del</v-btn>
+        <v-btn
+          v-if="$auth.isAuthenticated"
+          class="indigo--text"
+          text
+          @click="delCar"
+          >Del</v-btn
+        >
       </v-card-actions>
     </v-card>
   </v-col>
