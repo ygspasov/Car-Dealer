@@ -2,8 +2,7 @@
   <div id="main">
     <h1>All cars</h1>
     <v-container fluid>
-      <v-row>
-      </v-row>
+      <v-row></v-row>
     </v-container>
     <v-container fluid>
       <v-row class="cars mt-4">
@@ -26,9 +25,10 @@
 </template>
 
 <script>
-const axios = require("axios");
 import SingleCar from "./SingleCar";
+import { LoadCars } from "../mixins/AsyncMixin";
 export default {
+  mixins: [LoadCars],
   data() {
     return {
       cars: [],
@@ -56,18 +56,6 @@ export default {
     this.updateVisibleCars();
   },
   methods: {
-    loadCars() {
-      axios
-        .get("http://localhost:3000/cars")
-        .then(response => {
-          this.cars = response.data;
-          this.updateVisibleCars();
-          this.getNumberOfTabs();
-        })
-        .catch(function(error) {
-          console.log(error);
-        });
-    },
     updateVisibleCars() {
       this.visibleCars = this.cars.slice(
         this.page * this.pageSize,
