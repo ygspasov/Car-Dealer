@@ -17,7 +17,7 @@ export const LoadCars = {
     }
   }
 };
-export const SingleCarAsinc = {
+export const SingleCarAsync = {
   methods: {
     updatePrice() {
       this.car.Price = this.price;
@@ -54,6 +54,38 @@ export const SingleCarAsinc = {
         .then(() => {
           this.mutableCar = null;
           this.$emit("update");
+        })
+        .catch(function(error) {
+          console.log(error);
+        });
+    }
+  }
+};
+
+export const PostCar = {
+  methods: {
+    AddCar() {
+      let newCar = {
+        Name: this.car,
+        Miles_per_Gallon: this.miles,
+        Cylinders: this.cylinders,
+        Displacement: this.displacement,
+        Horsepower: this.horsepower,
+        Weight_in_lbs: this.weight,
+        Acceleration: this.acceleration,
+        Year: this.date,
+        Origin: this.origin,
+        Price: this.price,
+        Quantity: this.quantity,
+        Picture: this.image,
+        Bought: false,
+        id: 1000
+      };
+      console.log(newCar);
+      axios
+        .post(baseURL, newCar)
+        .then(function(response) {
+          console.log(response);
         })
         .catch(function(error) {
           console.log(error);

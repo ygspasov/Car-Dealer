@@ -6495,6 +6495,22 @@
       "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
       "Bought": false,
       "id": 405
+    },
+    {
+      "Name": "BMW",
+      "Miles_per_Gallon": 11,
+      "Cylinders": 11,
+      "Displacement": 1000,
+      "Horsepower": 1000,
+      "Weight_in_lbs": 1000,
+      "Acceleration": 12,
+      "Year": "02.02.2012",
+      "Origin": "BG",
+      "Price": 1000,
+      "Quantity": 2,
+      "Picture": "https://media.wired.com/photos/5d09594a62bcb0c9752779d9/master/pass/Transpo_G70_TA-518126.jpg",
+      "Bought": false,
+      "id": 1000
     }
   ]
 }

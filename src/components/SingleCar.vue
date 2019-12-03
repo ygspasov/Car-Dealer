@@ -55,10 +55,10 @@
 </template>
 
 <script>
-import { SingleCarAsinc } from "../mixins/AsyncMixin";
+import { SingleCarAsync } from "../mixins/AsyncMixin";
 
 export default {
-  mixins: [SingleCarAsinc],
+  mixins: [SingleCarAsync],
   props: {
     car: { type: Object }
   },

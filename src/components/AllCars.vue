@@ -2,7 +2,9 @@
   <div id="main">
     <h1>All cars</h1>
     <v-container fluid>
-      <v-row></v-row>
+      <v-row>
+        <AddCarForm :cars="cars"></AddCarForm>
+      </v-row>
     </v-container>
     <v-container fluid>
       <v-row class="cars mt-4">
@@ -26,6 +28,7 @@
 
 <script>
 import SingleCar from "./SingleCar";
+import AddCarForm from "./AddCarForm";
 import { LoadCars } from "../mixins/AsyncMixin";
 export default {
   mixins: [LoadCars],
@@ -39,7 +42,8 @@ export default {
     };
   },
   components: {
-    SingleCar
+    SingleCar,
+    AddCarForm
   },
   watch: {
     page: function() {

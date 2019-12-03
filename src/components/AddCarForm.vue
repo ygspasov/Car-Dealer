@@ -14,7 +14,13 @@
       <v-text-field type="number" name="horsepower" label="Horsepower" v-model.number="horsepower" />
       <v-text-field type="number" name="weight" label="Weight in lbs" v-model.number="weight" />
       <v-text-field type="number" name="quantity" label="Quantity" v-model.number="quantity" />
-      <v-text-field type="text" name="date" label="Date" v-model="date" placeholder="DD/MM/YYYY" />
+      <v-text-field
+        type="number"
+        name="acceleration"
+        label="Acceleration"
+        v-model.number="acceleration"
+      />
+      <v-text-field type="text" name="date" label="Date" v-model="date" placeholder="DD.MM.YYYY" />
       <v-text-field type="text" name="Origin" label="Origin" v-model="origin" />
       <v-text-field type="text" name="image" label="Image" v-model="image" />
       <v-btn class="mr-4" @click="checkForm">submit</v-btn>
@@ -34,8 +40,10 @@
 
 <script>
 import { AuthenticationMixin } from "../mixins/Authentication";
+import { PostCar } from "../mixins/AsyncMixin";
 export default {
-  mixins: [AuthenticationMixin],
+  mixins: [AuthenticationMixin, PostCar],
+  props: { cars: { type: Array } },
   data() {
     return {
       errors: [],
@@ -50,7 +58,8 @@ export default {
       date: null,
       origin: null,
       quantity: null,
-      image: null
+      image: null,
+      acceleration: null
     };
   },
   methods: {}

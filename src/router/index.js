@@ -1,8 +1,7 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
-import About from "../views/About.vue";
-import AddCarForm from "../views/AddCarForm.vue";
+import AddCarForm from "../components/AddCarForm.vue";
 
 Vue.use(VueRouter);
 
@@ -11,11 +10,6 @@ const routes = [
     path: "/",
     name: "home",
     component: Home
-  },
-  {
-    path: "/about",
-    name: "about",
-    component: About
   },
   {
     path: "/addcarform",

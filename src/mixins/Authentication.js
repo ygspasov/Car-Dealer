@@ -60,6 +60,13 @@ export const AuthenticationMixin = {
       ) {
         this.errors.push("Quantity should be between 1 and 20 digits!");
         return;
+      } else if (
+        this.acceleration < 10 ||
+        this.acceleration > 30 ||
+        isNaN(this.acceleration)
+      ) {
+        this.errors.push("Acceleration should be between 10 and 30 digits!");
+        return;
       } else if (this.origin < 3) {
         this.errors.push("Car origin should be at least 3 symbols!");
         return;
@@ -70,6 +77,8 @@ export const AuthenticationMixin = {
         this.errors.push("Please, provide valid image format!");
         return;
       }
+
+      this.AddCar();
       this.success = true;
       this.errors = [];
     },
@@ -85,14 +94,13 @@ export const AuthenticationMixin = {
       this.date = null;
       this.origin = null;
       this.quantity = null;
+      this.acceleration = null;
       this.errors = [];
       this.date = null;
       this.image = null;
     },
     checkDate(date) {
-      console.log(date);
-      console.log(moment(date, "DD/MM/YYYY", true).isValid());
-      return moment(date, "DD/MM/YYYY", true).isValid();
+      return moment(date, "DD.MM.YYYY", true).isValid();
     },
     checkImage(url) {
       return url.match(/\.(jpeg|jpg|gif|png)$/) != null;
