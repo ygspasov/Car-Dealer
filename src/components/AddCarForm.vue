@@ -40,9 +40,10 @@
 
 <script>
 import { AuthenticationMixin } from "../mixins/Authentication";
-import { PostCar } from "../mixins/AsyncMixin";
+import { PostCarMixin } from "../mixins/AsyncMixin";
+import { NextCarIdMixin } from "../mixins/AsyncMixin";
 export default {
-  mixins: [AuthenticationMixin, PostCar],
+  mixins: [AuthenticationMixin, PostCarMixin, NextCarIdMixin],
   props: { cars: { type: Array } },
   data() {
     return {
@@ -59,9 +60,11 @@ export default {
       origin: null,
       quantity: null,
       image: null,
-      acceleration: null
+      acceleration: null,
+      nextCarId: 0
     };
   },
+
   methods: {}
 };
 </script>

@@ -7,9 +7,9 @@ export const LoadCars = {
       axios
         .get("http://localhost:3000/cars")
         .then(response => {
+          console.log("updating");
           this.cars = response.data;
           this.updateVisibleCars();
-          this.getNumberOfTabs();
         })
         .catch(function(error) {
           console.log(error);
@@ -53,16 +53,18 @@ export const SingleCarAsync = {
         .delete(url)
         .then(() => {
           this.mutableCar = null;
-          this.$emit("update");
         })
         .catch(function(error) {
           console.log(error);
+        })
+        .finally(() => {
+          this.$emit("update");
         });
     }
   }
 };
 
-export const PostCar = {
+export const PostCarMixin = {
   methods: {
     AddCar() {
       let newCar = {
@@ -79,17 +81,17 @@ export const PostCar = {
         Quantity: this.quantity,
         Picture: this.image,
         Bought: false,
-        id: 1000
+        id: null
       };
-      console.log(newCar);
-      axios
-        .post(baseURL, newCar)
-        .then(function(response) {
-          console.log(response);
-        })
-        .catch(function(error) {
-          console.log(error);
-        });
+      axios.post(baseURL, newCar);
     }
+  }
+};
+
+export const NextCarIdMixin = {
+  mounted: function() {
+    axios.get("http://localhost:3000/cars").then(response => {
+      this.nextCarId = response.data.length;
+    });
   }
 };

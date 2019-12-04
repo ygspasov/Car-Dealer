@@ -2,13 +2,13 @@
   <div id="main">
     <h1>All cars</h1>
     <v-container fluid>
-      <v-row>
-        <AddCarForm :cars="cars"></AddCarForm>
-      </v-row>
-    </v-container>
-    <v-container fluid>
       <v-row class="cars mt-4">
-        <SingleCar v-for="(car, i) of visibleCars.slice(0,50)" :key="i" :car="car">
+        <SingleCar
+          v-for="(car, i) of visibleCars.slice(0,50)"
+          :key="i"
+          :car="car"
+          @update="loadCars"
+        >
           {{
           car.Name
           }}
@@ -28,7 +28,6 @@
 
 <script>
 import SingleCar from "./SingleCar";
-import AddCarForm from "./AddCarForm";
 import { LoadCars } from "../mixins/AsyncMixin";
 export default {
   mixins: [LoadCars],
@@ -42,8 +41,7 @@ export default {
     };
   },
   components: {
-    SingleCar,
-    AddCarForm
+    SingleCar
   },
   watch: {
     page: function() {
