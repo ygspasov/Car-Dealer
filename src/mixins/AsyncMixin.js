@@ -7,9 +7,9 @@ export const LoadCars = {
       axios
         .get("http://localhost:3000/cars")
         .then(response => {
-          console.log("updating");
           this.cars = response.data;
           this.updateVisibleCars();
+          this.getNumberOfTabs();
         })
         .catch(function(error) {
           console.log(error);

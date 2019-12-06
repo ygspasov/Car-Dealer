@@ -44,7 +44,6 @@ import { PostCarMixin } from "../mixins/AsyncMixin";
 import { NextCarIdMixin } from "../mixins/AsyncMixin";
 export default {
   mixins: [AuthenticationMixin, PostCarMixin, NextCarIdMixin],
-  props: { cars: { type: Array } },
   data() {
     return {
       errors: [],
