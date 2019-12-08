@@ -1,11 +1,12 @@
 const axios = require("axios");
-const baseURL = "http://localhost:3000/cars/";
+const baseURL = "http://localhost:3000/cars";
+const baseAccountsURL = "http://localhost:3000/accounts";
 
 export const LoadCars = {
   methods: {
     loadCars() {
       axios
-        .get("http://localhost:3000/cars")
+        .get(baseURL)
         .then(response => {
           this.cars = response.data;
           this.updateVisibleCars();
@@ -19,6 +20,41 @@ export const LoadCars = {
 };
 export const SingleCarAsync = {
   methods: {
+    getUserBalance() {
+      let email = this.email;
+      let price = this.car.Price;
+      let id = null;
+      console.log("email: " + email);
+      axios
+        .get(baseAccountsURL)
+        .then(response => {
+          response.data.forEach(account => {
+            if (account.email == email) {
+              let newBalance = account.balance - price;
+              id = account.id;
+              let url = baseAccountsURL + "/" + id;
+              let newAccount = {
+                email: email,
+                balance: newBalance
+              };
+              axios.patch(url, newAccount);
+              return;
+            }
+          });
+        })
+        .catch(function(error) {
+          console.log(error);
+        });
+    },
+    reduceUserBalance() {
+      console.log("reduce price");
+    },
+    buyCar() {
+      this.getUserBalance();
+      this.reduceUserBalance();
+      this.mutableCar.Bought = true;
+      this.mutableCar.Email = this.email;
+    },
     updatePrice() {
       this.car.Price = this.price;
       let id = this.car.id;
@@ -26,7 +62,7 @@ export const SingleCarAsync = {
       axios
         .patch(url, this.car)
         .then(response => {
-          this.mutableCar = response.data;
+          response.data = this.mutableCar;
         })
         .catch(function(error) {
           console.log(error);

@@ -13,8 +13,9 @@
       "Price": "15699",
       "Quantity": 10,
       "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
-      "Bought": false,
-      "id": 0
+      "Bought": true,
+      "id": 0,
+      "Email": ""
     },
     {
       "Name": "buick skylark 320",
@@ -6527,6 +6528,18 @@
       "Picture": "https://g1.cars.bg/2019-10-17_2/5da83eb045164f4b0e319527b.jpg",
       "Bought": false,
       "id": 407
+    }
+  ],
+  "accounts": [
+    {
+      "id": 0,
+      "email": "ygspasov@gmail.com",
+      "balance": 10000000
+    },
+    {
+      "id": 1,
+      "email": "harkon@abv.bg",
+      "balance": 10000000
     }
   ]
 }

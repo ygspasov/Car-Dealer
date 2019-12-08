@@ -47,7 +47,7 @@
       <v-card-actions>
         <v-btn v-if="$auth.isAuthenticated" @click="showEdit = !showEdit" text>Edit</v-btn>
 
-        <v-btn class="indigo--text" text>Buy</v-btn>
+        <v-btn class="indigo--text" text @click="buyCar">Buy</v-btn>
         <v-btn v-if="$auth.isAuthenticated" class="indigo--text" text @click="delCar">Del</v-btn>
       </v-card-actions>
     </v-card>
@@ -69,7 +69,8 @@ export default {
       showEdit: false,
       price: this.car.Price,
       quantity: this.car.Quantity,
-      mutableCar: this.car
+      mutableCar: this.car,
+      email: this.$auth.user.email
     };
   },
   methods: {}
