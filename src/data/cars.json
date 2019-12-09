@@ -13,7 +13,7 @@
       "Price": "15699",
       "Quantity": 10,
       "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
-      "Bought": true,
+      "Bought": false,
       "id": 0,
       "Email": ""
     },
@@ -6534,7 +6534,7 @@
     {
       "id": 0,
       "email": "ygspasov@gmail.com",
-      "balance": 10000000
+      "balance": 9843010
     },
     {
       "id": 1,

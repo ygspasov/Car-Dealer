@@ -22,3 +22,9 @@ Vue.filter("lbsToKg", function(value) {
     return Math.round(value * 0.45359237);
   }
 });
+
+Vue.filter("getUserName", function(str) {
+  if (str) {
+    return str.match(/^([^@]*)@/)[1];
+  }
+});

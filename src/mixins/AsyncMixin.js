@@ -20,8 +20,8 @@ export const LoadCars = {
 };
 export const SingleCarAsync = {
   methods: {
-    getUserBalance() {
-      let email = this.email;
+    updateUserBalance() {
+      let email = this.userEmail;
       let price = this.car.Price;
       let id = null;
       console.log("email: " + email);
@@ -46,14 +46,10 @@ export const SingleCarAsync = {
           console.log(error);
         });
     },
-    reduceUserBalance() {
-      console.log("reduce price");
-    },
     buyCar() {
-      this.getUserBalance();
-      this.reduceUserBalance();
+      this.updateUserBalance();
       this.mutableCar.Bought = true;
-      this.mutableCar.Email = this.email;
+      this.mutableCar.Email = this.userEmail;
     },
     updatePrice() {
       this.car.Price = this.price;

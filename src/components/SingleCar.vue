@@ -69,11 +69,14 @@ export default {
       showEdit: false,
       price: this.car.Price,
       quantity: this.car.Quantity,
-      mutableCar: this.car,
-      email: this.$auth.user.email
+      mutableCar: this.car
     };
   },
-  methods: {}
+  computed: {
+    userEmail() {
+      return this.$auth.user.email || "";
+    }
+  }
 };
 </script>
 
