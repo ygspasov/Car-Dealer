@@ -21,16 +21,27 @@ export const LoadCars = {
 export const SingleCarAsync = {
   methods: {
     updateUserBalance() {
+      if (this.mutableCar.Quantity > 0) {
+        this.mutableCar.Quantity -= 1;
+      } else {
+        this.error = "Out of stock!";
+        return;
+      }
+
       let email = this.userEmail;
       let price = this.car.Price;
       let id = null;
-      console.log("email: " + email);
+
       axios
         .get(baseAccountsURL)
         .then(response => {
           response.data.forEach(account => {
             if (account.email == email) {
               let newBalance = account.balance - price;
+              if (newBalance < 0) {
+                this.error = "Not enough money!";
+                return;
+              }
               id = account.id;
               let url = baseAccountsURL + "/" + id;
               let newAccount = {
@@ -45,16 +56,30 @@ export const SingleCarAsync = {
         .catch(function(error) {
           console.log(error);
         });
+      this.mutableCar.Bought = true;
+      this.mutableCar.Email = this.userEmail;
     },
     buyCar() {
       this.updateUserBalance();
-      this.mutableCar.Bought = true;
-      this.mutableCar.Email = this.userEmail;
+      this.updateCarInfo();
+    },
+    updateCarInfo() {
+      let id = this.car.id;
+      const url = baseURL + "/" + id;
+      console.log(url);
+      axios
+        .patch(url, this.mutableCar)
+        .then(response => {
+          response.data = this.mutableCar;
+        })
+        .catch(function(error) {
+          console.log(error);
+        });
     },
     updatePrice() {
       this.car.Price = this.price;
       let id = this.car.id;
-      const url = baseURL + id;
+      const url = baseURL + "/" + id;
       axios
         .patch(url, this.car)
         .then(response => {
@@ -67,7 +92,7 @@ export const SingleCarAsync = {
     updateQuantity() {
       this.car.Quantity = this.quantity;
       let id = this.car.id;
-      const url = baseURL + id;
+      const url = baseURL + "/" + id;
       axios
         .patch(url, this.car)
         .then(response => {

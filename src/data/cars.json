@@ -10,12 +10,12 @@
       "Acceleration": 12,
       "Year": "1970-01-01",
       "Origin": "USA",
-      "Price": "15699",
-      "Quantity": 10,
+      "Price": "15700",
+      "Quantity": 13,
       "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
-      "Bought": false,
+      "Bought": true,
       "id": 0,
-      "Email": ""
+      "Email": "ygspasov@gmail.com"
     },
     {
       "Name": "buick skylark 320",
@@ -31,7 +31,8 @@
       "Quantity": 5,
       "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
       "Bought": false,
-      "id": 1
+      "id": 1,
+      "Email": "ygspasov@gmail.com"
     },
     {
       "Name": "plymouth satellite",
@@ -60,10 +61,11 @@
       "Year": "1970-01-01",
       "Origin": "USA",
       "Price": 19370,
-      "Quantity": 1,
+      "Quantity": 0,
       "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
       "Bought": false,
-      "id": 3
+      "id": 3,
+      "Email": ""
     },
     {
       "Name": "ford torino",
@@ -6534,7 +6536,7 @@
     {
       "id": 0,
       "email": "ygspasov@gmail.com",
-      "balance": 9843010
+      "balance": 0
     },
     {
       "id": 1,

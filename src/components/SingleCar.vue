@@ -44,11 +44,14 @@
         </v-btn>
       </v-card-text>
 
-      <v-card-actions>
+      <v-card-actions v-if="!error">
         <v-btn v-if="$auth.isAuthenticated" @click="showEdit = !showEdit" text>Edit</v-btn>
 
         <v-btn class="indigo--text" text @click="buyCar">Buy</v-btn>
         <v-btn v-if="$auth.isAuthenticated" class="indigo--text" text @click="delCar">Del</v-btn>
+      </v-card-actions>
+      <v-card-actions v-if="error">
+        <div class="errorMSG indigo white--text body-1 px-4">{{error}}</div>
       </v-card-actions>
     </v-card>
   </v-col>
@@ -69,7 +72,8 @@ export default {
       showEdit: false,
       price: this.car.Price,
       quantity: this.car.Quantity,
-      mutableCar: this.car
+      mutableCar: this.car,
+      error: ""
     };
   },
   computed: {
@@ -110,5 +114,10 @@ div > input {
 div .v-btn {
   width: 30%;
   padding-right: 5px;
+}
+.errorMSG {
+  margin: 0 auto;
+  padding: 6px;
+  border-radius: 3px;
 }
 </style>

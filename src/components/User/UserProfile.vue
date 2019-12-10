@@ -15,12 +15,15 @@
 
 <script>
 import SingleCar from "./SingleCar";
+import { LoadCars } from "../../mixins/AsyncMixin";
 const axios = require("axios");
 const baseAccountsURL = "http://localhost:3000/accounts";
+const baseURL = "http://localhost:3000/cars";
 export default {
+  mixins: [LoadCars],
   data() {
     return {
-      cars: [{ car1: "" }, { car2: "" }],
+      cars: [],
       balance: 0
     };
   },
@@ -29,6 +32,7 @@ export default {
   },
   created() {
     this.getUserBalance();
+    this.loadCars();
   },
 
   computed: {
@@ -46,6 +50,22 @@ export default {
           }
         });
       });
+    },
+    loadCars() {
+      axios
+        .get(baseURL)
+        .then(response => {
+          response.data.forEach(car => {
+            if (car.Bought) {
+              this.cars.push(car);
+            }
+          });
+          // this.updateVisibleCars();
+          // this.getNumberOfTabs();
+        })
+        .catch(function(error) {
+          console.log(error);
+        });
     }
   }
 };
