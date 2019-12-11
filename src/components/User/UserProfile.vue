@@ -1,6 +1,6 @@
 <template>
   <div id="userProfile">
-    <h1>User Profile</h1>
+    <h1>Trader Profile</h1>
     <h2 v-if="$auth.isAuthenticated">Welcome {{userEmail|getUserName}}</h2>
     <h3 v-if="$auth.isAuthenticated">Balance: {{balance | USD}}</h3>
 
@@ -56,12 +56,12 @@ export default {
         .get(baseURL)
         .then(response => {
           response.data.forEach(car => {
-            if (car.Bought) {
-              this.cars.push(car);
-            }
+            car.Buyers.forEach(buyer => {
+              if (buyer.Email == this.$auth.user.email) {
+                this.cars.push(car);
+              }
+            });
           });
-          // this.updateVisibleCars();
-          // this.getNumberOfTabs();
         })
         .catch(function(error) {
           console.log(error);

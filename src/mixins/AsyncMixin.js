@@ -56,8 +56,29 @@ export const SingleCarAsync = {
         .catch(function(error) {
           console.log(error);
         });
-      this.mutableCar.Bought = true;
-      this.mutableCar.Email = this.userEmail;
+
+      if (!this.mutableCar.Buyers) {
+        this.mutableCar.Buyers = [];
+        let newBuyer = {
+          Email: this.userEmail,
+          Quantity: 1,
+          CarID: this.mutableCar.id
+        };
+        this.mutableCar.Buyers.push(newBuyer);
+      } else if (this.mutableCar.Buyers.length == 0) {
+        let newBuyer = {
+          Email: this.userEmail,
+          Quantity: 1,
+          CarID: this.mutableCar.id
+        };
+        this.mutableCar.Buyers.push(newBuyer);
+      } else {
+        this.mutableCar.Buyers.forEach(buyer => {
+          if (buyer.Email == email) {
+            buyer.Quantity += 1;
+          }
+        });
+      }
     },
     buyCar() {
       this.updateUserBalance();
@@ -66,7 +87,6 @@ export const SingleCarAsync = {
     updateCarInfo() {
       let id = this.car.id;
       const url = baseURL + "/" + id;
-      console.log(url);
       axios
         .patch(url, this.mutableCar)
         .then(response => {
@@ -137,7 +157,6 @@ export const PostCarMixin = {
         Price: this.price,
         Quantity: this.quantity,
         Picture: this.image,
-        Bought: false,
         id: null
       };
       axios.post(baseURL, newCar);

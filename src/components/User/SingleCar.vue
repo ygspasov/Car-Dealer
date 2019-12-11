@@ -37,7 +37,7 @@
 
         <div>Year: {{ car.Year | formatDate }}</div>
         <div>Origin: {{ car.Origin }}</div>
-        <div v-if="!showEdit">Quantity: {{ car.Quantity }}</div>
+        <div>Quantity: {{ quantity }}</div>
         <input v-if="showEdit" type="text" placeholder="Enter new quantity" v-model="quantity" />
         <v-btn v-if="showEdit" text icon color="indigo accent-1" @click="updateQuantity" class>
           <v-icon>saved</v-icon>
@@ -61,13 +61,25 @@ export default {
       switchLbs: true,
       showEdit: false,
       price: this.car.Price,
-      quantity: this.car.Quantity,
+      quantity: 0,
       mutableCar: this.car
     };
   },
   computed: {
     userEmail() {
       return this.$auth.user.email || "";
+    }
+  },
+  created() {
+    this.getQuantity();
+  },
+  methods: {
+    getQuantity: function() {
+      this.car.Buyers.forEach(buyer => {
+        if (buyer.Email == this.$auth.user.email) {
+          this.quantity = buyer.Quantity;
+        }
+      });
     }
   }
 };
