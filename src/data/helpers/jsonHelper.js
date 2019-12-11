@@ -4497,15 +4497,6 @@ let addPicture = function() {
 
 addPicture(cars);
 
-let addBought = function() {
-  cars.forEach(car => {
-    car.Bought = false;
-  });
-  return cars;
-};
-
-addBought(cars);
-
 let addId = function() {
   let id = 0;
   cars.forEach(car => {
@@ -4515,6 +4506,14 @@ let addId = function() {
 };
 
 addId(cars);
+
+let addBuyers = function() {
+  cars.forEach(car => {
+    car.Buyers = [];
+  });
+};
+
+addBuyers(cars);
 
 let data = JSON.stringify(cars);
 fs.writeFileSync("data.json", data);
