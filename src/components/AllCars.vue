@@ -2,17 +2,25 @@
   <div id="main">
     <h1>All cars</h1>
     <v-container fluid>
-      <v-row class="cars mt-4">
-        <SingleCar
-          v-for="(car, i) of visibleCars.slice(0,50)"
-          :key="i"
-          :car="car"
-          @update="loadCars"
-        >
-          {{
-          car.Name
-          }}
-        </SingleCar>
+      <v-row>
+        <v-col cols="12" sm="4" md="3">
+          <Sidebar />
+        </v-col>
+
+        <v-col cols="12" sm="8" md="9">
+          <v-row>
+            <SingleCar
+              v-for="(car, i) of visibleCars.slice(0,50)"
+              :key="i"
+              :car="car"
+              @update="loadCars"
+            >
+              {{
+              car.Name
+              }}
+            </SingleCar>
+          </v-row>
+        </v-col>
       </v-row>
     </v-container>
     <div class="text-center" id="pagination">
@@ -28,6 +36,7 @@
 
 <script>
 import SingleCar from "./SingleCar";
+import Sidebar from "./Sidebar";
 import { LoadCars } from "../mixins/AsyncMixin";
 export default {
   mixins: [LoadCars],
@@ -41,7 +50,8 @@ export default {
     };
   },
   components: {
-    SingleCar
+    SingleCar,
+    Sidebar
   },
   watch: {
     page: function() {

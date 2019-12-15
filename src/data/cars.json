@@ -87,10 +87,16 @@
       "Year": "1970-01-01",
       "Origin": "USA",
       "Price": 12805,
-      "Quantity": 5,
+      "Quantity": 4,
       "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
       "id": 4,
-      "Buyers": []
+      "Buyers": [
+        {
+          "Email": "ygspasov@gmail.com",
+          "Quantity": 1,
+          "CarID": 4
+        }
+      ]
     },
     {
       "Name": "ford galaxie 500",
@@ -151,10 +157,16 @@
       "Year": "1970-01-01",
       "Origin": "USA",
       "Price": 14656,
-      "Quantity": 4,
+      "Quantity": 3,
       "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
       "id": 8,
-      "Buyers": []
+      "Buyers": [
+        {
+          "Email": "ygspasov@gmail.com",
+          "Quantity": 1,
+          "CarID": 8
+        }
+      ]
     },
     {
       "Name": "amc ambassador dpl",
@@ -6513,7 +6525,7 @@
     {
       "id": 0,
       "email": "ygspasov@gmail.com",
-      "balance": 9411003
+      "balance": 9383542
     },
     {
       "id": 1,
