@@ -11,7 +11,6 @@
           @input="handleClick(sortWord)"
         ></v-overflow-btn>
       </v-col>
-      {{sortWord}}
     </v-row>
   </v-container>
 </template>
@@ -21,17 +20,24 @@ export default {
   data() {
     return {
       SortBy: [
-        "By model",
+        "By name ascending",
+        "By name descending",
         "By price ascending",
         "By price descending",
-        "By manufacturer"
+        "By manufacturer",
+        "By horsepower",
+        "By origin",
+        "By cylinders",
+        "By displacement",
+        "By weight",
+        "By miles per gallon"
       ],
       sortWord: ""
     };
   },
   methods: {
     handleClick(sortWord) {
-      console.log("sortWord: " + sortWord);
+      this.$emit("sorting", sortWord);
     }
   }
 };

@@ -1,10 +1,11 @@
 <template>
   <div id="main">
     <h1>All cars</h1>
+
     <v-container fluid>
-      <v-row>
+      <v-row :key="componentKey">
         <v-col cols="12" sm="4" md="3">
-          <Sidebar />
+          <Sidebar @sorting="sortCars" />
         </v-col>
 
         <v-col cols="12" sm="8" md="9">
@@ -46,7 +47,8 @@ export default {
       page: 0,
       pageSize: 12,
       visibleCars: [],
-      paginationTabs: 0
+      paginationTabs: 0,
+      componentKey: 0
     };
   },
   components: {
@@ -88,6 +90,57 @@ export default {
     },
     updateComp() {
       this.loadCars();
+    },
+    sortCars(sortWord) {
+      switch (sortWord) {
+        case "By name ascending":
+          this.sortByNameAscending();
+          break;
+        case "By name descending":
+          this.sortByNameDescending();
+          break;
+        case "By price ascending":
+          this.sortByPrice();
+          break;
+        case "By price descending":
+          break;
+        case "By manufacturer":
+          break;
+        default:
+          break;
+      }
+    },
+    sortByNameAscending() {
+      this.cars.sort(this.byNameAscending);
+      this.updateVisibleCars();
+    },
+    sortByNameDescending() {
+      this.cars.sort(this.ByNameDescending);
+      this.updateVisibleCars();
+    },
+    byNameAscending(a, b) {
+      if (a.Name < b.Name) {
+        return -1;
+      }
+      if (a.Name > b.Name) {
+        return 1;
+      }
+      return 0;
+    },
+    ByNameDescending(a, b) {
+      if (a.Name > b.Name) {
+        return -1;
+      }
+      if (a.Name < b.Name) {
+        return 1;
+      }
+      return 0;
+    },
+    sortByPrice() {
+      console.log("sorting by price ascending");
+    },
+    forceRerender() {
+      this.componentKey++;
     }
   }
 };
