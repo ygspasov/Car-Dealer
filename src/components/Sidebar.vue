@@ -24,13 +24,18 @@ export default {
         "By name descending",
         "By price ascending",
         "By price descending",
-        "By manufacturer",
-        "By horsepower",
-        "By origin",
-        "By cylinders",
-        "By displacement",
-        "By weight",
-        "By miles per gallon"
+        "By horsepower ascending",
+        "By horsepower descending",
+        "By origin ascending",
+        "By origin descending",
+        "By cylinders ascending",
+        "By cylinders descending",
+        "By displacement ascending",
+        "By displacement descending",
+        "By weight ascending",
+        "By weight descending",
+        "By miles per gallon ascending",
+        "By miles per gallon descending"
       ],
       sortWord: ""
     };
