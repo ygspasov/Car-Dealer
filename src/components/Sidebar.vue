@@ -12,11 +12,25 @@
         ></v-overflow-btn>
       </v-col>
     </v-row>
+    <v-row>
+      <v-col cols="12">
+        <div class="search">
+          <v-text-field
+            v-model.trim="search"
+            @input="$emit('searchInput', search)"
+            label="Find a car"
+            @keyup="handleEmptySearchField"
+          ></v-text-field>
+        </div>
+      </v-col>
+    </v-row>
   </v-container>
 </template>
 
 <script>
+import { LoadCars } from "../mixins/AsyncMixin";
 export default {
+  mixins: [LoadCars],
   data() {
     return {
       SortBy: [
@@ -37,16 +51,27 @@ export default {
         "By miles per gallon ascending",
         "By miles per gallon descending"
       ],
-      sortWord: ""
+      sortWord: "",
+      search: ""
     };
   },
   methods: {
     handleClick(sortWord) {
       this.$emit("sorting", sortWord);
+    },
+    handleEmptySearchField() {
+      this.search == "" ? this.$emit("loadCars") : console.log("not empty");
     }
   }
 };
 </script>
 
 <style>
+.search #input-21 {
+  margin: 4px 0;
+  padding-left: 10px;
+}
+.search label {
+  padding-left: 16px;
+}
 </style>

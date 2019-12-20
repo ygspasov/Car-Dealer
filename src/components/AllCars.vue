@@ -5,7 +5,7 @@
     <v-container fluid>
       <v-row>
         <v-col cols="12" sm="4" md="3">
-          <Sidebar @sorting="sortCars" />
+          <Sidebar @sorting="sortCars" @searchInput="handleSearch($event)" @loadCars="updateComp" />
         </v-col>
 
         <v-col cols="12" sm="8" md="9">
@@ -90,6 +90,12 @@ export default {
     },
     updateComp() {
       this.loadCars();
+    },
+    handleSearch(searchTerm) {
+      this.cars = this.cars.filter(car =>
+        car.Name.toLowerCase().includes(searchTerm.toLowerCase())
+      );
+      this.updateVisibleCars();
     }
   }
 };
