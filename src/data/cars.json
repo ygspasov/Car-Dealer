@@ -11,13 +11,13 @@
       "Year": "1970-01-01",
       "Origin": "USA",
       "Price": 14351,
-      "Quantity": 19,
+      "Quantity": 18,
       "Picture": "https://drop.ndtv.com/albums/AUTO/porsche-taycan-turbo/1200x900_1.jpg",
       "id": 0,
       "Buyers": [
         {
           "Email": "ygspasov@gmail.com",
-          "Quantity": 2,
+          "Quantity": 3,
           "CarID": 0
         }
       ]
@@ -6525,7 +6525,7 @@
     {
       "id": 0,
       "email": "ygspasov@gmail.com",
-      "balance": 9383542
+      "balance": 9369191
     },
     {
       "id": 1,

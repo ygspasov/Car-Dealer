@@ -1,5 +1,5 @@
 <template>
-  <v-container id="button-dropdown">
+  <v-container id="filters">
     <v-row>
       <v-col cols="12">
         <v-overflow-btn
@@ -23,6 +23,48 @@
           ></v-text-field>
         </div>
       </v-col>
+    </v-row>
+    <v-row>
+      <v-card flat color="transparent">
+        <v-subheader>Choose price range</v-subheader>
+        <v-card-text>
+          <v-row>
+            <v-col class="px-4">
+              <v-range-slider
+                v-model="range"
+                :max="max"
+                :min="min"
+                hide-details
+                class="align-center"
+                @change="emitSliderRanges"
+              >
+                <template v-slot:prepend>
+                  <v-text-field
+                    v-model="range[0]"
+                    class="mt-0 pt-0"
+                    hide-details
+                    single-line
+                    type="number"
+                    style="width: 80px"
+                    @input="emitSliderRanges"
+                  ></v-text-field>
+                </template>
+                <template v-slot:append>
+                  <v-text-field
+                    v-model="range[1]"
+                    class="mt-0 pt-0"
+                    hide-details
+                    single-line
+                    type="number"
+                    style="width: 80px"
+                    @input="emitSliderRanges"
+                  ></v-text-field>
+                </template>
+              </v-range-slider>
+            </v-col>
+          </v-row>
+        </v-card-text>
+      </v-card>
     </v-row>
   </v-container>
 </template>
@@ -52,7 +94,11 @@ export default {
         "By miles per gallon descending"
       ],
       sortWord: "",
-      search: ""
+      search: "",
+      min: 0,
+      max: 5000000,
+      slider: 40,
+      range: [0, 5000000]
     };
   },
   methods: {
@@ -60,7 +106,12 @@ export default {
       this.$emit("sorting", sortWord);
     },
     handleEmptySearchField() {
-      this.search == "" ? this.$emit("loadCars") : console.log("not empty");
+      this.search == "" ? this.$emit("loadCars") : "";
+    },
+    emitSliderRanges() {
+      let lowerRange = Number(this.range[0]);
+      let upperRange = Number(this.range[1]);
+      this.$emit("EmittingSliderRanges", [lowerRange, upperRange]);
     }
   }
 };
@@ -73,5 +124,8 @@ export default {
 }
 .search label {
   padding-left: 16px;
+}
+#filters .v-card {
+  width: 100%;
 }
 </style>

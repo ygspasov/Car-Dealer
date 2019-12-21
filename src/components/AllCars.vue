@@ -5,7 +5,12 @@
     <v-container fluid>
       <v-row>
         <v-col cols="12" sm="4" md="3">
-          <Sidebar @sorting="sortCars" @searchInput="handleSearch($event)" @loadCars="updateComp" />
+          <Sidebar
+            @sorting="sortCars"
+            @searchInput="handleSearch($event)"
+            @loadCars="updateComp"
+            @EmittingSliderRanges="handeSliderRanges($event)"
+          />
         </v-col>
 
         <v-col cols="12" sm="8" md="9">
@@ -96,6 +101,9 @@ export default {
         car.Name.toLowerCase().includes(searchTerm.toLowerCase())
       );
       this.updateVisibleCars();
+    },
+    handeSliderRanges(ranges) {
+      console.log(ranges);
     }
   }
 };
