@@ -18,6 +18,24 @@ export const LoadCars = {
     }
   }
 };
+export const SliderMixin = {
+  methods: {
+    handeSliderRanges(ranges) {
+      axios.get(baseURL).then(response => {
+        this.cars = response.data;
+        let sorted = [];
+        this.cars.forEach(car => {
+          if (car.Price >= ranges[0] && car.Price <= ranges[1]) {
+            sorted.push(car);
+          }
+        });
+        this.cars = sorted;
+        this.updateVisibleCars();
+        this.getNumberOfTabs();
+      });
+    }
+  }
+};
 export const SingleCarAsync = {
   methods: {
     updateUserBalance() {

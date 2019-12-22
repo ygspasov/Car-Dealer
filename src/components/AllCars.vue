@@ -45,8 +45,9 @@ import SingleCar from "./SingleCar";
 import Sidebar from "./Sidebar";
 import { LoadCars } from "../mixins/AsyncMixin";
 import { SortingMixin } from "../mixins/SortingMixin";
+import { SliderMixin } from "../mixins/AsyncMixin";
 export default {
-  mixins: [LoadCars, SortingMixin],
+  mixins: [LoadCars, SortingMixin, SliderMixin],
   data() {
     return {
       cars: [],
@@ -101,9 +102,6 @@ export default {
         car.Name.toLowerCase().includes(searchTerm.toLowerCase())
       );
       this.updateVisibleCars();
-    },
-    handeSliderRanges(ranges) {
-      console.log(ranges);
     }
   }
 };

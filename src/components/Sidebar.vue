@@ -26,7 +26,6 @@
     </v-row>
     <v-row>
       <v-card flat color="transparent">
-        <v-subheader>Choose price range</v-subheader>
         <v-card-text>
           <v-row>
             <v-col class="px-4">
@@ -36,7 +35,6 @@
                 :min="min"
                 hide-details
                 class="align-center"
-                @change="emitSliderRanges"
               >
                 <template v-slot:prepend>
                   <v-text-field
@@ -46,7 +44,6 @@
                     single-line
                     type="number"
                     style="width: 80px"
-                    @input="emitSliderRanges"
                   ></v-text-field>
                 </template>
                 <template v-slot:append>
@@ -57,10 +54,12 @@
                     single-line
                     type="number"
                     style="width: 80px"
-                    @input="emitSliderRanges"
                   ></v-text-field>
                 </template>
               </v-range-slider>
+              <div class="my-2">
+                <v-btn small color="primary" @click="emitSliderRanges">Apply price range</v-btn>
+              </div>
             </v-col>
           </v-row>
         </v-card-text>
@@ -96,9 +95,9 @@ export default {
       sortWord: "",
       search: "",
       min: 0,
-      max: 5000000,
+      max: 50000,
       slider: 40,
-      range: [0, 5000000]
+      range: [0, 50000]
     };
   },
   methods: {
