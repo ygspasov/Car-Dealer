@@ -38,7 +38,8 @@
               >
                 <template v-slot:prepend>
                   <v-text-field
-                    v-model="range[0]"
+                    :value="range[0]"
+                    @change="$set(range, 0, $event)"
                     class="mt-0 pt-0"
                     hide-details
                     single-line
@@ -48,7 +49,8 @@
                 </template>
                 <template v-slot:append>
                   <v-text-field
-                    v-model="range[1]"
+                    :value="range[1]"
+                    @change="$set(range, 1, $event)"
                     class="mt-0 pt-0"
                     hide-details
                     single-line
@@ -108,8 +110,8 @@ export default {
       this.search == "" ? this.$emit("loadCars") : "";
     },
     emitSliderRanges() {
-      let lowerRange = Number(this.range[0]);
-      let upperRange = Number(this.range[1]);
+      let lowerRange = this.range[0];
+      let upperRange = this.range[1];
       this.$emit("EmittingSliderRanges", [lowerRange, upperRange]);
     }
   }
