@@ -67,6 +67,14 @@
         </v-card-text>
       </v-card>
     </v-row>
+    <v-row>
+      <v-col cols="12">
+        <p class="px-2 indigo--text">
+          Number of cars:
+          <strong>{{cars.length}}</strong>
+        </p>
+      </v-col>
+    </v-row>
   </v-container>
 </template>
 
@@ -74,6 +82,7 @@
 import { LoadCars } from "../mixins/AsyncMixin";
 export default {
   mixins: [LoadCars],
+  props: ["cars"],
   data() {
     return {
       SortBy: [

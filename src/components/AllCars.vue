@@ -1,7 +1,5 @@
 <template>
   <div id="main">
-    <h1>All cars</h1>
-
     <v-container fluid>
       <v-row>
         <v-col cols="12" sm="4" md="3">
@@ -10,6 +8,7 @@
             @searchInput="handleSearch($event)"
             @loadCars="updateComp"
             @EmittingSliderRanges="handeSliderRanges($event)"
+            :cars="cars"
           />
         </v-col>
 

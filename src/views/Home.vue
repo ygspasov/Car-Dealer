@@ -11,3 +11,9 @@ export default {
   components: { AllCars }
 };
 </script>
+
+<style >
+.home {
+  margin-top: 60px;
+}
+</style>

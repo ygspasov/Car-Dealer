@@ -141,9 +141,8 @@ export const SingleCarAsync = {
         });
     },
     delCar() {
-      let id = this.car.id;
+      let id = "/" + this.car.id;
       const url = baseURL + id;
-      console.log(url);
       axios
         .delete(url)
         .then(() => {

@@ -8,7 +8,12 @@ Vue.filter("formatDate", function(value) {
 });
 
 Vue.filter("USD", function(value) {
-  return `USD ${value}`;
+  const formatter = new Intl.NumberFormat("en-US", {
+    style: "currency",
+    currency: "USD",
+    minimumFractionDigits: 0
+  });
+  return `USD ${formatter.format(value)}`;
 });
 
 Vue.filter("litresPer100km", function(value) {

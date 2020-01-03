@@ -3,11 +3,17 @@
     <nav class="d-flex align-center">
       <router-link tag="a" class="indigo--text text--lighten-5 headline" to="/">Car Dealer</router-link>
       <router-link
+        v-if="$auth.isAuthenticated"
         to="/addcarform"
         class="indigo--text text--lighten-4 subtitle-1"
         tag="a"
       >Sell your car</router-link>
-      <router-link tag="a" to="/userprofile" class="indigo--text text--lighten-4 subtitle-1">Profile</router-link>
+      <router-link
+        tag="a"
+        to="/userprofile"
+        class="indigo--text text--lighten-4 subtitle-1"
+        v-if="$auth.isAuthenticated"
+      >Profile</router-link>
     </nav>
     <v-spacer></v-spacer>
 

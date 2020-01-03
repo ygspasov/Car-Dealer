@@ -44,11 +44,11 @@
         </v-btn>
       </v-card-text>
 
-      <v-card-actions v-if="!error">
-        <v-btn v-if="$auth.isAuthenticated" @click="showEdit = !showEdit" text>Edit</v-btn>
+      <v-card-actions v-if="!error && $auth.isAuthenticated">
+        <v-btn @click="showEdit = !showEdit" text>Edit</v-btn>
 
         <v-btn class="indigo--text" text @click="buyCar">Buy</v-btn>
-        <v-btn v-if="$auth.isAuthenticated" class="indigo--text" text @click="delCar">Del</v-btn>
+        <v-btn class="indigo--text" text @click="delCar">Del</v-btn>
       </v-card-actions>
       <v-card-actions v-if="error">
         <div class="errorMSG indigo white--text body-1 px-4">{{error}}</div>
