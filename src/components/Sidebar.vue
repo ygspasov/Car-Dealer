@@ -3,7 +3,7 @@
     <v-row>
       <v-col cols="12">
         <v-overflow-btn
-          class="my-2"
+          class="mb-2"
           :items="SortBy"
           label="Sort cars by"
           target="#button-dropdown"
