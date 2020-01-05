@@ -106,9 +106,9 @@ export default {
       sortWord: "",
       search: "",
       min: 0,
-      max: 50000,
+      max: 5000000,
       slider: 40,
-      range: [0, 50000]
+      range: [0, 5000000]
     };
   },
   methods: {
