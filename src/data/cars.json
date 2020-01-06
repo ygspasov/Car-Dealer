@@ -11,11 +11,17 @@
       "Year": "2011-01-01",
       "Origin": "IT",
       "Price": 550889,
-      "Quantity": 12,
+      "Quantity": 11,
       "Picture": "http://4.bp.blogspot.com/-jnxXc2oQyXA/VfFiZWwqgyI/AAAAAAAAAIw/9BX9CQ3rSuo/s1600/2017.jpg",
       "Bought": false,
       "id": 0,
-      "Buyers": []
+      "Buyers": [
+        {
+          "Email": "ygspasov@gmail.com",
+          "Quantity": 1,
+          "CarID": 0
+        }
+      ]
     },
     {
       "Name": "Lamborghini Huracan",
@@ -6515,7 +6521,7 @@
     {
       "id": 0,
       "email": "ygspasov@gmail.com",
-      "balance": 8669191
+      "balance": 8118302
     },
     {
       "id": 1,

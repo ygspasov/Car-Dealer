@@ -39,11 +39,11 @@
 </template>
 
 <script>
-import { AuthenticationMixin } from "../mixins/Authentication";
+import { ValidationMixin } from "../mixins/ValidationMixin";
 import { PostCarMixin } from "../mixins/AsyncMixin";
 import { NextCarIdMixin } from "../mixins/AsyncMixin";
 export default {
-  mixins: [AuthenticationMixin, PostCarMixin, NextCarIdMixin],
+  mixins: [ValidationMixin, PostCarMixin, NextCarIdMixin],
   data() {
     return {
       errors: [],

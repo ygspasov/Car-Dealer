@@ -38,7 +38,13 @@
         <div>Year: {{ car.Year | formatDate }}</div>
         <div>Origin: {{ car.Origin }}</div>
         <div v-if="!showEdit">Quantity: {{ car.Quantity }}</div>
-        <input v-if="showEdit" type="text" placeholder="Enter new quantity" v-model="quantity" />
+        <input
+          class="white--text"
+          v-if="showEdit"
+          type="text"
+          placeholder="Enter new quantity"
+          v-model="quantity"
+        />
         <v-btn v-if="showEdit" text icon color="indigo accent-1" @click="updateQuantity" class>
           <v-icon>saved</v-icon>
         </v-btn>

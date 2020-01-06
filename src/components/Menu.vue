@@ -27,7 +27,11 @@
       </v-btn>
       <!-- show logout when authenticated -->
 
-      <v-btn class="indigo lighten-4 indigo--text" v-if="$auth.isAuthenticated" @click="logout">
+      <v-btn
+        class="indigo lighten-4 indigo--text mr-2"
+        v-if="$auth.isAuthenticated"
+        @click="logout"
+      >
         <v-icon v-if="$auth.isAuthenticated" class="shrink mr-2">done</v-icon>Log out
       </v-btn>
     </div>

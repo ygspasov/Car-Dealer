@@ -1,9 +1,9 @@
 <template>
-  <v-container id="filters">
+  <v-container>
     <v-row>
       <v-col cols="12">
         <v-overflow-btn
-          class="mb-2"
+          class="mb-2 pt-0"
           :items="SortBy"
           label="Sort cars by"
           target="#button-dropdown"
@@ -28,7 +28,7 @@
       <v-card flat color="transparent">
         <v-card-text>
           <v-row>
-            <v-col class="px-4">
+            <v-col>
               <v-range-slider
                 v-model="range"
                 :max="max"
@@ -137,5 +137,21 @@ export default {
 }
 #filters .v-card {
   width: 100%;
+}
+.v-select__selection.v-select__selection--comma,
+.v-label.theme--light,
+#main input,
+.v-list-item__content {
+  color: #3f51b5;
+}
+.v-card.v-card--flat.v-sheet.theme--light.transparent {
+  width: 100%;
+}
+
+#app .theme--light.v-overflow-btn .v-input__control::before {
+  background-color: blue !important;
+}
+.theme--light.v-text-field > .v-input__control > .v-input__slot::before {
+  border-color: blue !important;
 }
 </style>

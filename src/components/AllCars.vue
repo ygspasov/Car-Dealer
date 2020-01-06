@@ -2,7 +2,7 @@
   <div id="main">
     <v-container fluid>
       <v-row>
-        <v-col cols="12" sm="4" md="3">
+        <v-col id="aside" cols="12" sm="4" md="3">
           <Sidebar
             @sorting="sortCars"
             @searchInput="handleSearch($event)"

@@ -1,5 +1,5 @@
 var moment = require("moment");
-export const AuthenticationMixin = {
+export const ValidationMixin = {
   methods: {
     checkForm() {
       this.errors = [];
@@ -33,18 +33,20 @@ export const AuthenticationMixin = {
         this.errors.push("Cylinders should be between 1 and 20 digits!");
         return;
       } else if (
-        this.displacement < 100 ||
-        this.displacement > 1000 ||
+        this.displacement < 2000 ||
+        this.displacement > 15000 ||
         isNaN(this.displacement)
       ) {
-        this.errors.push("Displacement should be between 100 and 1000 digits!");
+        this.errors.push(
+          "Displacement should be between 2000 and 15000 digits!"
+        );
         return;
       } else if (
         this.horsepower < 60 ||
-        this.horsepower > 1000 ||
+        this.horsepower > 2000 ||
         isNaN(this.horsepower)
       ) {
-        this.errors.push("Horsepower should be between 60 and 1000 digits!");
+        this.errors.push("Horsepower should be between 60 and 2000 digits!");
         return;
       } else if (
         this.weight < 1000 ||
@@ -61,13 +63,13 @@ export const AuthenticationMixin = {
         this.errors.push("Quantity should be between 1 and 20 digits!");
         return;
       } else if (
-        this.acceleration < 10 ||
+        this.acceleration < 2 ||
         this.acceleration > 30 ||
         isNaN(this.acceleration)
       ) {
-        this.errors.push("Acceleration should be between 10 and 30 digits!");
+        this.errors.push("Acceleration should be between 2 and 30 digits!");
         return;
-      } else if (this.origin < 3) {
+      } else if (this.origin.length !== 2) {
         this.errors.push("Car origin should be at least 3 symbols!");
         return;
       } else if (!this.checkDate(this.date)) {
