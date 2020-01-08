@@ -1,4 +1,4 @@
-# car-dealer
+# Car Dealer
 
 A VueJS application for purchasing and selling cars. It uses [Axios](https://github.com/axios/axios) and [JSON Server](https://github.com/typicode/json-server) to simulate database requests. The front end is handled by [VueJS](https://vuejs.org/) and [Vuetify](https://vuetifyjs.com/en/). It is a complete CRUD app that allows you to purchase existing cars, place new cars for sale, edit car parameters or remove cars from sale. The search function gives you the option to look for a particular car or cars from a certain car manufacturer. The sorting functionality is extensive and explained below. All data is read from and saved in a JSON file, meaning the changes are permanent.
 
@@ -67,19 +67,19 @@ The switchers for each car allow you to easily convert liters per 100km to miles
 
 ![alt text](screenshots/switchers.jpg "Switchers")
 
-## Login and Register
+## Login and register
 
 The app uses [Auth0](https://auth0.com/) for authentication. Currently, you can only see your profile, sell a car, remove a car from sale or make changes to a car if you're logged in.
 
 ![alt text](screenshots/login.jpg "Login and Register")
 
-## User Bought cars
+## User bought cars
 
-The information on the number of purchased cars becomes accessible after the user logs in. Each car has a quantity in the shop. After purchasing a car, the number of cars you've acquired is deducted from the shop and displayed under "Purchased cars" in the trader profile as shown below.
+The information on the number of purchased cars becomes accessible after the user logs in. Each car has a quantity in the shop. After purchasing a car, the number of cars you've acquired is deducted from the shop and displayed under "Purchased cars" in the trader profile as shown below. Also, the user balance is reduced with the amount spent on cars.
 
 ![alt text](screenshots/boughtCars.jpg "User Bought cars")
 
-## Price range
+## Price range filter
 
 You can use a price range filter to only display the cars in the shop that match your budget.
 
