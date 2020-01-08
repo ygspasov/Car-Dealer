@@ -4,19 +4,20 @@ A VueJS application for purchasing and selling cars. It uses [Axios](https://git
 
 The app also uses [VueRouter](https://router.vuejs.org/) for handling routs and [Moment.js](https://momentjs.com/) for handling dates.
 
-![alt text](screenshots/main.js "Display all cars")
+![alt text](screenshots/main.jpg "Display all cars")
 
 Functionality:
 
 ## Put a car on sale
 
-You can put your car on sale using this form to sumbit all the car's details such as the name of the car, its price, its picture and all the other relevant related information listed on the screenshot.
+You can put your car on sale using this form to submit all the car's details such as the name of the car, its price, its picture and all the other relevant related information listed on the screenshot.
 
 ![alt text](screenshots/submitCarForm.jpg "Put a car on sale")
 
 ## Validation
 
 The car submit form comes with validation that works from the top to the bottom input field. It checks all the fields in that order to determine whether the user has entered valid car data and displays an error in red if any field's validation fails. If all checks pass, you're greeted with the message "Your car has been added to the Car Trader!" in green, after which you can see your vehicle listed for sale among all the other cars.
+
 ![alt text](screenshots/validation.jpg "Validation")
 
 ## Edit and delete a car
@@ -27,7 +28,7 @@ To remove a car from sale, simply hit "Del" and it will no longer be listed unde
 
 ## Search by name
 
-You can search for a particar car or car model. The search is case insensitive. The resulting set of data will also display the number of cars that match your search criteria in the sidebar.
+You can search for a particular car or car model. The search is case insensitive. The resulting set of data will also display the number of cars that match your search criteria in the sidebar.
 
 ![alt text](screenshots/searchByName.jpg "Search by name")
 
@@ -62,7 +63,7 @@ The pagination divides the resulting set of cars into different sets/pages. The 
 
 ## Switchers
 
-The switchers for each car allow you to easily convert liters per 100km to miles per gallon and weight in lbs to weight in kilograms, presenting you with a convinient way to compare values.
+The switchers for each car allow you to easily convert liters per 100km to miles per gallon and weight in lbs to weight in kilograms, presenting you with a convenient way to compare values.
 
 ![alt text](screenshots/switchers.jpg "Switchers")
 
