@@ -149,9 +149,17 @@ export default {
 }
 
 #app .theme--light.v-overflow-btn .v-input__control::before {
-  background-color: blue !important;
+  background-color: #3f51b5 !important;
 }
 .theme--light.v-text-field > .v-input__control > .v-input__slot::before {
-  border-color: blue !important;
+  border-color: #3f51b5 !important;
+}
+
+.mdi-menu-down::before {
+  color: #3f51b5;
+}
+
+#app .search input {
+  padding-left: 10px;
 }
 </style>
